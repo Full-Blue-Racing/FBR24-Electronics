@@ -1,0 +1,23 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid aabca57a-6bae-490b-93ac-3b2bd0729f71)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (hierarchical_label "GND" (shape input) (at 119.38 73.66 0)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 26389704-3622-4d5b-8627-f3c6d8fbc752)
+  )
+  (hierarchical_label "+5V" (shape input) (at 118.11 69.85 0)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 5f5eecc1-4853-40f9-a84a-8a9bc753f23c)
+  )
+  (hierarchical_label "CAMSIG" (shape input) (at 118.11 64.77 0)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 78dec75e-6430-42a3-a05b-45da76845fff)
+  )
+)

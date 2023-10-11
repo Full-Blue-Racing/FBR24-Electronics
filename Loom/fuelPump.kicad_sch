@@ -1,0 +1,41 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid 6abdae5b-4d64-4e83-b704-27a70a9d61de)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (polyline (pts (xy 107.95 73.66) (xy 107.95 93.98))
+    (stroke (width 0) (type default) (color 0 0 0 0))
+    (uuid 0aa0e7a9-5e66-4793-b5e0-3a617adc9fdc)
+  )
+  (polyline (pts (xy 107.95 73.66) (xy 151.13 73.66))
+    (stroke (width 0) (type default) (color 0 0 0 0))
+    (uuid 69bdf985-ccfc-43c3-aa26-a0df33d891ec)
+  )
+  (polyline (pts (xy 151.13 73.66) (xy 151.13 93.98))
+    (stroke (width 0) (type default) (color 0 0 0 0))
+    (uuid b8521861-d61b-43ef-9efc-563c076b926b)
+  )
+  (polyline (pts (xy 151.13 93.98) (xy 107.95 93.98))
+    (stroke (width 0) (type default) (color 0 0 0 0))
+    (uuid e4ddb075-ee9b-4bbd-8f9a-a4a4f7a6c2b4)
+  )
+
+  (text "Fuel Pump" (at 121.92 83.82 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 5facd4c0-da00-4334-b145-4e1d24781aaf)
+  )
+
+  (hierarchical_label "+12V" (shape input) (at 107.95 78.74 180)
+    (effects (font (size 1.27 1.27)) (justify right))
+    (uuid 5dd3cde1-30aa-4f5e-bd2a-6b37a81cbd87)
+  )
+  (hierarchical_label "GND" (shape input) (at 107.95 86.36 180)
+    (effects (font (size 1.27 1.27)) (justify right))
+    (uuid be31bf67-2424-4ae6-b543-3639b5715561)
+  )
+)

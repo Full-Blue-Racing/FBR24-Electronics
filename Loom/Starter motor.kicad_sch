@@ -1,0 +1,15 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid 000a26ab-49bd-4b7f-9ba5-460f0f658906)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (hierarchical_label "+12V" (shape input) (at 124.46 52.07 0)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid b7886693-052a-456c-857e-78e58985c8fd)
+  )
+)

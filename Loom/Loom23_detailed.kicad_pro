@@ -1,0 +1,552 @@
+{
+  "board": {
+    "design_settings": {
+      "defaults": {
+        "board_outline_line_width": 0.09999999999999999,
+        "copper_line_width": 0.19999999999999998,
+        "copper_text_italic": false,
+        "copper_text_size_h": 1.5,
+        "copper_text_size_v": 1.5,
+        "copper_text_thickness": 0.3,
+        "copper_text_upright": false,
+        "courtyard_line_width": 0.049999999999999996,
+        "dimension_precision": 4,
+        "dimension_units": 3,
+        "dimensions": {
+          "arrow_length": 1270000,
+          "extension_offset": 500000,
+          "keep_text_aligned": true,
+          "suppress_zeroes": false,
+          "text_position": 0,
+          "units_format": 1
+        },
+        "fab_line_width": 0.09999999999999999,
+        "fab_text_italic": false,
+        "fab_text_size_h": 1.0,
+        "fab_text_size_v": 1.0,
+        "fab_text_thickness": 0.15,
+        "fab_text_upright": false,
+        "other_line_width": 0.15,
+        "other_text_italic": false,
+        "other_text_size_h": 1.0,
+        "other_text_size_v": 1.0,
+        "other_text_thickness": 0.15,
+        "other_text_upright": false,
+        "pads": {
+          "drill": 0.762,
+          "height": 1.524,
+          "width": 1.524
+        },
+        "silk_line_width": 0.15,
+        "silk_text_italic": false,
+        "silk_text_size_h": 1.0,
+        "silk_text_size_v": 1.0,
+        "silk_text_thickness": 0.15,
+        "silk_text_upright": false,
+        "zones": {
+          "45_degree_only": false,
+          "min_clearance": 0.508
+        }
+      },
+      "diff_pair_dimensions": [],
+      "drc_exclusions": [],
+      "meta": {
+        "version": 2
+      },
+      "rule_severities": {
+        "annular_width": "error",
+        "clearance": "error",
+        "copper_edge_clearance": "error",
+        "courtyards_overlap": "error",
+        "diff_pair_gap_out_of_range": "error",
+        "diff_pair_uncoupled_length_too_long": "error",
+        "drill_out_of_range": "error",
+        "duplicate_footprints": "warning",
+        "extra_footprint": "warning",
+        "footprint_type_mismatch": "error",
+        "hole_clearance": "error",
+        "hole_near_hole": "error",
+        "invalid_outline": "error",
+        "item_on_disabled_layer": "error",
+        "items_not_allowed": "error",
+        "length_out_of_range": "error",
+        "malformed_courtyard": "error",
+        "microvia_drill_out_of_range": "error",
+        "missing_courtyard": "ignore",
+        "missing_footprint": "warning",
+        "net_conflict": "warning",
+        "npth_inside_courtyard": "ignore",
+        "padstack": "error",
+        "pth_inside_courtyard": "ignore",
+        "shorting_items": "error",
+        "silk_over_copper": "warning",
+        "silk_overlap": "warning",
+        "skew_out_of_range": "error",
+        "through_hole_pad_without_hole": "error",
+        "too_many_vias": "error",
+        "track_dangling": "warning",
+        "track_width": "error",
+        "tracks_crossing": "error",
+        "unconnected_items": "error",
+        "unresolved_variable": "error",
+        "via_dangling": "warning",
+        "zone_has_empty_net": "error",
+        "zones_intersect": "error"
+      },
+      "rules": {
+        "allow_blind_buried_vias": false,
+        "allow_microvias": false,
+        "max_error": 0.005,
+        "min_clearance": 0.0,
+        "min_copper_edge_clearance": 0.0,
+        "min_hole_clearance": 0.25,
+        "min_hole_to_hole": 0.25,
+        "min_microvia_diameter": 0.19999999999999998,
+        "min_microvia_drill": 0.09999999999999999,
+        "min_silk_clearance": 0.0,
+        "min_through_hole_diameter": 0.3,
+        "min_track_width": 0.19999999999999998,
+        "min_via_annular_width": 0.049999999999999996,
+        "min_via_diameter": 0.39999999999999997,
+        "solder_mask_clearance": 0.0,
+        "solder_mask_min_width": 0.0,
+        "use_height_for_length_calcs": true
+      },
+      "track_widths": [],
+      "via_dimensions": [],
+      "zones_allow_external_fillets": false,
+      "zones_use_no_outline": true
+    },
+    "layer_presets": []
+  },
+  "boards": [],
+  "cvpcb": {
+    "equivalence_files": []
+  },
+  "erc": {
+    "erc_exclusions": [],
+    "meta": {
+      "version": 0
+    },
+    "pin_map": [
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        2,
+        0,
+        1,
+        0,
+        0,
+        1,
+        0,
+        2,
+        2,
+        2,
+        2
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        1,
+        2
+      ],
+      [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        2,
+        1,
+        1,
+        2
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2
+      ],
+      [
+        1,
+        1,
+        1,
+        1,
+        1,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2
+      ],
+      [
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        2,
+        1,
+        2,
+        0,
+        0,
+        1,
+        0,
+        2,
+        2,
+        2,
+        2
+      ],
+      [
+        0,
+        2,
+        0,
+        1,
+        0,
+        0,
+        1,
+        0,
+        2,
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        2,
+        1,
+        1,
+        0,
+        0,
+        1,
+        0,
+        2,
+        0,
+        0,
+        2
+      ],
+      [
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2
+      ]
+    ],
+    "rule_severities": {
+      "bus_definition_conflict": "error",
+      "bus_entry_needed": "error",
+      "bus_label_syntax": "error",
+      "bus_to_bus_conflict": "error",
+      "bus_to_net_conflict": "error",
+      "different_unit_footprint": "error",
+      "different_unit_net": "error",
+      "duplicate_reference": "error",
+      "duplicate_sheet_names": "error",
+      "extra_units": "error",
+      "global_label_dangling": "warning",
+      "hier_label_mismatch": "error",
+      "label_dangling": "error",
+      "lib_symbol_issues": "warning",
+      "multiple_net_names": "warning",
+      "net_not_bus_member": "warning",
+      "no_connect_connected": "warning",
+      "no_connect_dangling": "warning",
+      "pin_not_connected": "error",
+      "pin_not_driven": "error",
+      "pin_to_pin": "warning",
+      "power_pin_not_driven": "error",
+      "similar_labels": "warning",
+      "unannotated": "error",
+      "unit_value_mismatch": "error",
+      "unresolved_variable": "error",
+      "wire_dangling": "error"
+    }
+  },
+  "libraries": {
+    "pinned_footprint_libs": [],
+    "pinned_symbol_libs": []
+  },
+  "meta": {
+    "filename": "Loom23_detailed.kicad_pro",
+    "version": 1
+  },
+  "net_settings": {
+    "classes": [
+      {
+        "bus_width": 12.0,
+        "clearance": 0.2,
+        "diff_pair_gap": 0.25,
+        "diff_pair_via_gap": 0.25,
+        "diff_pair_width": 0.2,
+        "line_style": 0,
+        "microvia_diameter": 0.3,
+        "microvia_drill": 0.1,
+        "name": "Default",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.25,
+        "via_diameter": 0.8,
+        "via_drill": 0.4,
+        "wire_width": 6.0
+      }
+    ],
+    "meta": {
+      "version": 2
+    },
+    "net_colors": null
+  },
+  "pcbnew": {
+    "last_paths": {
+      "gencad": "",
+      "idf": "",
+      "netlist": "",
+      "specctra_dsn": "",
+      "step": "",
+      "vrml": ""
+    },
+    "page_layout_descr_file": ""
+  },
+  "schematic": {
+    "annotate_start_num": 0,
+    "drawing": {
+      "default_line_thickness": 6.0,
+      "default_text_size": 50.0,
+      "field_names": [],
+      "intersheets_ref_own_page": false,
+      "intersheets_ref_prefix": "",
+      "intersheets_ref_short": false,
+      "intersheets_ref_show": false,
+      "intersheets_ref_suffix": "",
+      "junction_size_choice": 3,
+      "label_size_ratio": 0.375,
+      "pin_symbol_size": 25.0,
+      "text_offset_ratio": 0.15
+    },
+    "legacy_lib_dir": "",
+    "legacy_lib_list": [],
+    "meta": {
+      "version": 1
+    },
+    "net_format_name": "",
+    "ngspice": {
+      "fix_include_paths": true,
+      "fix_passive_vals": false,
+      "meta": {
+        "version": 0
+      },
+      "model_mode": 0,
+      "workbook_filename": ""
+    },
+    "page_layout_descr_file": "",
+    "plot_directory": "",
+    "spice_adjust_passive_values": false,
+    "spice_external_command": "spice \"%I\"",
+    "subpart_first_id": 65,
+    "subpart_id_separator": 0
+  },
+  "sheets": [
+    [
+      "691c98c8-9b47-40a5-87b6-2865e3f6892d",
+      ""
+    ],
+    [
+      "d9e86993-4170-4767-b00a-2f69835aa78e",
+      "ECU"
+    ],
+    [
+      "b7fe1752-e9eb-4cb1-8988-4b52615147ad",
+      "Throttle position sensor (ECU)"
+    ],
+    [
+      "4c7609ac-4b89-4a39-b576-e6104db08a8f",
+      "Manifold absolute pressure"
+    ],
+    [
+      "aac17192-d787-488d-8edf-e2b57dc8f596",
+      "Intake air temperature"
+    ],
+    [
+      "e220c874-6bcb-4397-8dc2-180272b59fa1",
+      "Coolant temperature sensor"
+    ],
+    [
+      "9195b5c2-f354-4214-8ce6-2cab76c907a9",
+      "Lambda sensor"
+    ],
+    [
+      "e3f56734-e397-4653-8e05-214ed238cb53",
+      "Oil pressure sensor"
+    ],
+    [
+      "31af8776-e20e-4678-af96-7d5469953b0e",
+      "Dash Arduino and screen"
+    ],
+    [
+      "a2c00e91-752b-4e31-8738-ffa3bd834bc1",
+      "CAN"
+    ],
+    [
+      "eca65766-c701-48ec-8273-3dc6cfc8bc7f",
+      "RPM LEDs and wheel buttons"
+    ],
+    [
+      "7b0f0b05-0256-463a-ae57-e387aefb1021",
+      "Dash switches"
+    ],
+    [
+      "94e7ee04-4a26-47de-94c6-a5117c8ca104",
+      "Paddle shifters"
+    ],
+    [
+      "89b578bc-4310-425a-b6ad-a1cbfaac89a7",
+      "Starter relay"
+    ],
+    [
+      "2eac7b5d-3d4a-4307-9701-7803ca4544f6",
+      "Relaybox"
+    ],
+    [
+      "0b39daa2-9761-477c-a0eb-32cece2dad91",
+      "Fusebox"
+    ],
+    [
+      "f6d62036-1353-44c1-8bdb-c554d032f03c",
+      "Starter motor"
+    ],
+    [
+      "10890e7c-b700-45d3-80f8-41487eb0e501",
+      "BSPD"
+    ],
+    [
+      "e7e35a98-fa36-447d-8c61-939a2107a6a8",
+      "Cooling fan (right)"
+    ],
+    [
+      "1d4732f1-f7ed-413e-8ddf-5b2c37a3c5df",
+      "Injector1"
+    ],
+    [
+      "24a8ce63-7f41-4ecf-aa15-ccbbd7987f66",
+      "Cooling fan (rear)"
+    ],
+    [
+      "a655e90c-85b5-46df-aa47-8693253a1546",
+      "Ignition"
+    ],
+    [
+      "6d5f3c99-ce1d-4951-a29e-45ba63db9055",
+      "Injector2"
+    ],
+    [
+      "5f356ee4-2f55-4568-bea5-9cb4ed0e6321",
+      "Fuel Pump"
+    ],
+    [
+      "c55b9370-9a95-40b8-b920-f700473b8b2f",
+      "Injector3"
+    ],
+    [
+      "96832332-808a-4ccd-a8cc-425e875d6301",
+      "TPS (BSPD)"
+    ],
+    [
+      "2b7f8e42-26b3-485b-897d-33f815bda7a2",
+      "Injector4"
+    ],
+    [
+      "a71cac18-d442-41d8-97fb-21b0f87e2ea9",
+      "BPS"
+    ],
+    [
+      "8ce0193e-777c-4ac0-85fb-fbcfe7496225",
+      "Crank sensor"
+    ],
+    [
+      "c356f07d-d30a-4507-8903-8d46e554beb0",
+      "Cooling fan (left)"
+    ],
+    [
+      "bb2d24d5-f90c-4ecb-b81c-651203f4d5dc",
+      "Engine speed sensor"
+    ],
+    [
+      "1d27a9e1-a99a-46d7-b2ea-46112bae4d76",
+      "Dash Break-out-board"
+    ],
+    [
+      "454df199-e992-461e-8c3c-2e50adb28e4c",
+      "Cam sensor"
+    ],
+    [
+      "2fdcdd11-a609-4508-a6c1-204f8ffdd716",
+      "Gearbox pneumatics"
+    ]
+  ],
+  "text_variables": {}
+}

@@ -1,0 +1,50 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid aedcbd43-7147-4d26-a68a-503905e602a2)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (polyline (pts (xy 133.35 114.3) (xy 175.26 114.3))
+    (stroke (width 0) (type default) (color 0 0 0 0))
+    (uuid 0839491f-15da-4775-9934-bffe7d553c99)
+  )
+  (polyline (pts (xy 175.26 114.3) (xy 175.26 92.71))
+    (stroke (width 0) (type default) (color 0 0 0 0))
+    (uuid 28146b8e-8fb3-42ad-ac38-6ba77ae7148a)
+  )
+
+  (wire (pts (xy 118.11 99.06) (xy 133.35 99.06))
+    (stroke (width 0) (type default) (color 0 0 0 0))
+    (uuid 5e79bcc2-9fcd-4b8c-a8d0-81727e48999c)
+  )
+  (wire (pts (xy 118.11 106.68) (xy 133.35 106.68))
+    (stroke (width 0) (type default) (color 0 0 0 0))
+    (uuid a0d3d074-b340-4e2d-9712-9ee98ea4d3e9)
+  )
+  (polyline (pts (xy 133.35 92.71) (xy 133.35 114.3))
+    (stroke (width 0) (type default) (color 0 0 0 0))
+    (uuid d0cc80a6-b7ac-4a3f-a988-2b25dac38d3d)
+  )
+  (polyline (pts (xy 133.35 92.71) (xy 175.26 92.71))
+    (stroke (width 0) (type default) (color 0 0 0 0))
+    (uuid e3cb6e0b-22bb-415e-90cf-c48e0c6aacb0)
+  )
+
+  (text "12V DC Fan\n3A continuously \n6A when spinning up.\n" (at 143.51 105.41 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid eceeabf4-3f1a-4b0b-b26e-c2be430ae1d7)
+  )
+
+  (hierarchical_label "GND" (shape input) (at 118.11 106.68 180)
+    (effects (font (size 1.27 1.27)) (justify right))
+    (uuid 995b69ca-8491-4ce7-8b8a-0c3185d7926b)
+  )
+  (hierarchical_label "+12V" (shape input) (at 118.11 99.06 180)
+    (effects (font (size 1.27 1.27)) (justify right))
+    (uuid e882e5b5-ad01-48d1-95cb-a6f021941c09)
+  )
+)
