@@ -45,11 +45,16 @@
         "silk_text_thickness": 0.15,
         "silk_text_upright": false,
         "zones": {
-          "45_degree_only": false,
-          "min_clearance": 0.508
+          "min_clearance": 0.5
         }
       },
-      "diff_pair_dimensions": [],
+      "diff_pair_dimensions": [
+        {
+          "gap": 0.0,
+          "via_gap": 0.0,
+          "width": 0.0
+        }
+      ],
       "drc_exclusions": [],
       "meta": {
         "version": 2
@@ -57,32 +62,43 @@
       "rule_severities": {
         "annular_width": "error",
         "clearance": "error",
+        "connection_width": "warning",
         "copper_edge_clearance": "error",
+        "copper_sliver": "warning",
         "courtyards_overlap": "error",
         "diff_pair_gap_out_of_range": "error",
         "diff_pair_uncoupled_length_too_long": "error",
         "drill_out_of_range": "error",
         "duplicate_footprints": "warning",
         "extra_footprint": "warning",
-        "footprint_type_mismatch": "error",
+        "footprint": "error",
+        "footprint_type_mismatch": "ignore",
         "hole_clearance": "error",
         "hole_near_hole": "error",
         "invalid_outline": "error",
+        "isolated_copper": "warning",
         "item_on_disabled_layer": "error",
         "items_not_allowed": "error",
         "length_out_of_range": "error",
+        "lib_footprint_issues": "warning",
+        "lib_footprint_mismatch": "warning",
         "malformed_courtyard": "error",
         "microvia_drill_out_of_range": "error",
         "missing_courtyard": "ignore",
         "missing_footprint": "warning",
         "net_conflict": "warning",
         "npth_inside_courtyard": "ignore",
-        "padstack": "error",
+        "padstack": "warning",
         "pth_inside_courtyard": "ignore",
         "shorting_items": "error",
+        "silk_edge_clearance": "warning",
         "silk_over_copper": "warning",
         "silk_overlap": "warning",
         "skew_out_of_range": "error",
+        "solder_mask_bridge": "error",
+        "starved_thermal": "error",
+        "text_height": "warning",
+        "text_thickness": "warning",
         "through_hole_pad_without_hole": "error",
         "too_many_vias": "error",
         "track_dangling": "warning",
@@ -91,32 +107,80 @@
         "unconnected_items": "error",
         "unresolved_variable": "error",
         "via_dangling": "warning",
-        "zone_has_empty_net": "error",
         "zones_intersect": "error"
       },
       "rules": {
-        "allow_blind_buried_vias": false,
-        "allow_microvias": false,
         "max_error": 0.005,
         "min_clearance": 0.0,
+        "min_connection": 0.0,
         "min_copper_edge_clearance": 0.0,
         "min_hole_clearance": 0.25,
         "min_hole_to_hole": 0.25,
         "min_microvia_diameter": 0.19999999999999998,
         "min_microvia_drill": 0.09999999999999999,
+        "min_resolved_spokes": 2,
         "min_silk_clearance": 0.0,
+        "min_text_height": 0.7999999999999999,
+        "min_text_thickness": 0.08,
         "min_through_hole_diameter": 0.3,
-        "min_track_width": 0.19999999999999998,
-        "min_via_annular_width": 0.049999999999999996,
-        "min_via_diameter": 0.39999999999999997,
+        "min_track_width": 0.0,
+        "min_via_annular_width": 0.09999999999999999,
+        "min_via_diameter": 0.5,
         "solder_mask_clearance": 0.0,
         "solder_mask_min_width": 0.0,
+        "solder_mask_to_copper_clearance": 0.0,
         "use_height_for_length_calcs": true
       },
-      "track_widths": [],
-      "via_dimensions": [],
-      "zones_allow_external_fillets": false,
-      "zones_use_no_outline": true
+      "teardrop_options": [
+        {
+          "td_allow_use_two_tracks": true,
+          "td_curve_segcount": 5,
+          "td_on_pad_in_zone": false,
+          "td_onpadsmd": true,
+          "td_onroundshapesonly": false,
+          "td_ontrackend": false,
+          "td_onviapad": true
+        }
+      ],
+      "teardrop_parameters": [
+        {
+          "td_curve_segcount": 0,
+          "td_height_ratio": 1.0,
+          "td_length_ratio": 0.5,
+          "td_maxheight": 2.0,
+          "td_maxlen": 1.0,
+          "td_target_name": "td_round_shape",
+          "td_width_to_size_filter_ratio": 0.9
+        },
+        {
+          "td_curve_segcount": 0,
+          "td_height_ratio": 1.0,
+          "td_length_ratio": 0.5,
+          "td_maxheight": 2.0,
+          "td_maxlen": 1.0,
+          "td_target_name": "td_rect_shape",
+          "td_width_to_size_filter_ratio": 0.9
+        },
+        {
+          "td_curve_segcount": 0,
+          "td_height_ratio": 1.0,
+          "td_length_ratio": 0.5,
+          "td_maxheight": 2.0,
+          "td_maxlen": 1.0,
+          "td_target_name": "td_track_end",
+          "td_width_to_size_filter_ratio": 0.9
+        }
+      ],
+      "track_widths": [
+        0.0
+      ],
+      "via_dimensions": [
+        {
+          "diameter": 0.0,
+          "drill": 0.0
+        }
+      ],
+      "zones_allow_external_fillets": false
     },
     "layer_presets": [],
     "viewports": []
@@ -341,7 +405,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Loom23_detailed.kicad_pro",
+    "filename": "telemetry_board.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -359,6 +423,23 @@
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.25,
+        "via_diameter": 0.8,
+        "via_drill": 0.4,
+        "wire_width": 6
+      },
+      {
+        "bus_width": 12,
+        "clearance": 0.2,
+        "diff_pair_gap": 0.25,
+        "diff_pair_via_gap": 0.25,
+        "diff_pair_width": 0.2,
+        "line_style": 0,
+        "microvia_diameter": 0.3,
+        "microvia_drill": 0.1,
+        "name": "Power",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.5,
         "via_diameter": 0.8,
         "via_drill": 0.4,
         "wire_width": 6
@@ -428,132 +509,8 @@
   },
   "sheets": [
     [
-      "691c98c8-9b47-40a5-87b6-2865e3f6892d",
+      "17142c20-2885-4f01-a488-1a597c5e7e8f",
       ""
-    ],
-    [
-      "d9e86993-4170-4767-b00a-2f69835aa78e",
-      "ECU"
-    ],
-    [
-      "b7fe1752-e9eb-4cb1-8988-4b52615147ad",
-      "Throttle position sensor (ECU)"
-    ],
-    [
-      "4c7609ac-4b89-4a39-b576-e6104db08a8f",
-      "Manifold absolute pressure"
-    ],
-    [
-      "aac17192-d787-488d-8edf-e2b57dc8f596",
-      "Intake air temperature"
-    ],
-    [
-      "e220c874-6bcb-4397-8dc2-180272b59fa1",
-      "Coolant temperature sensor"
-    ],
-    [
-      "9195b5c2-f354-4214-8ce6-2cab76c907a9",
-      "Lambda sensor"
-    ],
-    [
-      "31af8776-e20e-4678-af96-7d5469953b0e",
-      "Dash Arduino and screen"
-    ],
-    [
-      "eca65766-c701-48ec-8273-3dc6cfc8bc7f",
-      "RPM LEDs and wheel buttons"
-    ],
-    [
-      "7b0f0b05-0256-463a-ae57-e387aefb1021",
-      "Dash switches"
-    ],
-    [
-      "94e7ee04-4a26-47de-94c6-a5117c8ca104",
-      "Paddle shifters"
-    ],
-    [
-      "89b578bc-4310-425a-b6ad-a1cbfaac89a7",
-      "Starter relay"
-    ],
-    [
-      "2eac7b5d-3d4a-4307-9701-7803ca4544f6",
-      "Relaybox"
-    ],
-    [
-      "0b39daa2-9761-477c-a0eb-32cece2dad91",
-      "Fusebox"
-    ],
-    [
-      "f6d62036-1353-44c1-8bdb-c554d032f03c",
-      "Starter motor"
-    ],
-    [
-      "10890e7c-b700-45d3-80f8-41487eb0e501",
-      "BSPD"
-    ],
-    [
-      "e7e35a98-fa36-447d-8c61-939a2107a6a8",
-      "Cooling fan (right)"
-    ],
-    [
-      "1d4732f1-f7ed-413e-8ddf-5b2c37a3c5df",
-      "Injector1"
-    ],
-    [
-      "a655e90c-85b5-46df-aa47-8693253a1546",
-      "Ignition"
-    ],
-    [
-      "6d5f3c99-ce1d-4951-a29e-45ba63db9055",
-      "Injector2"
-    ],
-    [
-      "5f356ee4-2f55-4568-bea5-9cb4ed0e6321",
-      "Fuel Pump"
-    ],
-    [
-      "c55b9370-9a95-40b8-b920-f700473b8b2f",
-      "Injector3"
-    ],
-    [
-      "96832332-808a-4ccd-a8cc-425e875d6301",
-      "TPS (BSPD)"
-    ],
-    [
-      "2b7f8e42-26b3-485b-897d-33f815bda7a2",
-      "Injector4"
-    ],
-    [
-      "a71cac18-d442-41d8-97fb-21b0f87e2ea9",
-      "BPS"
-    ],
-    [
-      "8ce0193e-777c-4ac0-85fb-fbcfe7496225",
-      "Crank sensor"
-    ],
-    [
-      "c356f07d-d30a-4507-8903-8d46e554beb0",
-      "Cooling fan (left)"
-    ],
-    [
-      "ec5165aa-5de5-4e50-86cd-30f7ed0f02bc",
-      "Telemetry"
-    ],
-    [
-      "1d27a9e1-a99a-46d7-b2ea-46112bae4d76",
-      "Dash Break-out-board"
-    ],
-    [
-      "454df199-e992-461e-8c3c-2e50adb28e4c",
-      "Cam sensor"
-    ],
-    [
-      "2fdcdd11-a609-4508-a6c1-204f8ffdd716",
-      "Gearbox pneumatics"
-    ],
-    [
-      "a2c00e91-752b-4e31-8738-ffa3bd834bc1",
-      "CAN"
     ]
   ],
   "text_variables": {}
