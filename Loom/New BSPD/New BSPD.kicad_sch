@@ -1797,20 +1797,20 @@
     (property "Datasheet" "http://www.intersil.com/content/dam/Intersil/documents/cd40/cd4011bms-12bms-23bms.pdf" (at 115.57 59.69 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 2c6ae1a7-94f5-496d-96fe-f66498037306))
-    (pin "2" (uuid 3a849a50-dc07-4555-bf77-741007f1563d))
-    (pin "3" (uuid 1e427a39-b45d-473a-a3b0-e6207ad59629))
-    (pin "4" (uuid 65c5caa9-574f-4dff-b3da-c6957c5c087d))
-    (pin "5" (uuid d4d6008d-5fac-4708-8735-0bffb606ae9d))
-    (pin "6" (uuid 7678d899-17e2-4433-9520-c49749809c5e))
-    (pin "10" (uuid 08be3785-42fb-4092-aebb-4d024e46e4e6))
-    (pin "8" (uuid 1bc2d986-b6d1-4477-a934-c69e9e3d0979))
-    (pin "9" (uuid 7c4662b4-46eb-4869-9e87-fa20191bc4d6))
-    (pin "11" (uuid 870888a3-fb94-4e2a-b23c-cdbdda9c2fdf))
-    (pin "12" (uuid 57164a52-86a5-411d-b180-99fcaa37e50d))
-    (pin "13" (uuid 776c9fbe-4621-4048-9bc0-fa94d9a8c246))
-    (pin "14" (uuid 77c33745-c743-43a6-82aa-b673dbefd597))
-    (pin "7" (uuid 485f3baf-f552-4918-8880-910c19009bf2))
+    (pin "1" (uuid 92281e63-1899-49a4-90a9-98bfebc40901))
+    (pin "2" (uuid 8856f7ba-e53b-4737-9dfb-7040f8b66ae4))
+    (pin "3" (uuid da439c98-5bea-4d32-a1ca-355a8df2af79))
+    (pin "4" (uuid cad2c99d-438e-4371-9b92-e6103e12fd74))
+    (pin "5" (uuid bb07bde7-0f89-44af-8687-feadf7476f69))
+    (pin "6" (uuid 8e43016f-79cd-45fc-b79b-f4874e31ad62))
+    (pin "10" (uuid 29e5828b-c49a-4e06-8d6a-5453675d39df))
+    (pin "8" (uuid 404f17f9-4ee3-4f73-ae5f-9d5bb3c06689))
+    (pin "9" (uuid 69a9d899-5c10-4f80-a183-2fe4c2d55603))
+    (pin "11" (uuid 0f7ecde3-2787-4723-83ae-32a14bec8ce3))
+    (pin "12" (uuid 1d0c0c9e-475a-4677-bcb6-86023761297a))
+    (pin "13" (uuid 7847a0ec-fefc-427a-a26d-dfcb2a934cb5))
+    (pin "14" (uuid 38f45c5c-6a2d-4ce8-82b6-63bf866b892b))
+    (pin "7" (uuid a1afaaf2-70ab-4d36-9125-cabbc77d7eae))
     (instances
       (project "New BSPD"
         (path "/1f7c501a-057f-4634-92ce-528b01503799"
@@ -1843,9 +1843,9 @@
     (property "Datasheet" "https://www.te.com/usa-en/product-282105-1.datasheet.pdf" (at 261.62 72.39 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid c82d112e-3569-4da7-b53a-a89e7e50db0b))
-    (pin "2" (uuid 0de7839b-dc8d-4ddb-a7e3-ce90e3fd30fe))
-    (pin "3" (uuid 9c5813cf-066b-4bbf-90ac-6355fe2a84fc))
+    (pin "1" (uuid dd1fc306-73b7-41c0-a904-d239cc034ed3))
+    (pin "2" (uuid eb3e8d60-9c2a-4cb1-9b22-cb09285f349c))
+    (pin "3" (uuid b03ff40a-9c00-4ee3-8c63-e2c7a4591544))
     (instances
       (project "New BSPD"
         (path "/1f7c501a-057f-4634-92ce-528b01503799"
@@ -1875,7 +1875,7 @@
     (property "Datasheet" "" (at 43.18 25.4 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 674c8512-98e0-4291-ac00-d946f39ba14c))
+    (pin "1" (uuid 31a10702-6463-4bf4-8e55-3b96e9a1a020))
     (instances
       (project "New BSPD"
         (path "/1f7c501a-057f-4634-92ce-528b01503799"
@@ -1905,8 +1905,8 @@
     (property "Datasheet" "~" (at 215.9 90.17 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 928822e4-36bb-45d0-9846-6ed10fc80cc1))
-    (pin "2" (uuid f7c8f491-5b8f-4f91-96d2-b9e33cfd9e5d))
+    (pin "1" (uuid 21b44594-3f43-4eb3-97f7-0ad2823f0776))
+    (pin "2" (uuid 34c8bb21-7b59-442c-8955-8d13129d6c9e))
     (instances
       (project "New BSPD"
         (path "/1f7c501a-057f-4634-92ce-528b01503799"
@@ -1936,7 +1936,7 @@
     (property "Datasheet" "" (at 87.63 43.18 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid d9b6613e-6f53-4aa7-b201-e8724d476f5a))
+    (pin "1" (uuid 485fc8cd-34af-4f6e-85ac-4b95445e79ea))
     (instances
       (project "New BSPD"
         (path "/1f7c501a-057f-4634-92ce-528b01503799"
@@ -1966,9 +1966,9 @@
     (property "Datasheet" "~" (at 38.1 26.67 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 41e3fac7-1f16-429d-bf05-088b399e48b9))
-    (pin "2" (uuid 91cb3f69-15a4-4b6e-a1cb-e0db0310cec2))
-    (pin "3" (uuid f7cce6b8-78ff-4eb9-b3f5-3f3261175225))
+    (pin "1" (uuid 7147b95b-8b35-4922-85b2-5de972871875))
+    (pin "2" (uuid 9d9a52ca-4809-474b-b727-7d8dc1120a42))
+    (pin "3" (uuid f653d976-b755-425c-9a16-8fd67f9c687d))
     (instances
       (project "New BSPD"
         (path "/1f7c501a-057f-4634-92ce-528b01503799"
@@ -1993,7 +1993,7 @@
     (property "Datasheet" "" (at 102.87 30.48 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 2c9ff235-6bf9-45be-8898-aeb06f7db65e))
+    (pin "1" (uuid 6cb030af-7cc0-4ef9-beff-871d4c832275))
     (instances
       (project "New BSPD"
         (path "/1f7c501a-057f-4634-92ce-528b01503799"
@@ -2023,11 +2023,11 @@
     (property "Datasheet" "https://www.farnell.com/datasheets/3169904.pdf" (at 228.6 72.39 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid b49b8671-b62b-4789-abda-d04240192d1f))
-    (pin "2" (uuid ce8c001d-e9c7-4e33-b271-dc6f27936b1a))
-    (pin "3" (uuid 837848ad-b4c7-438b-afe5-ffcecc356933))
-    (pin "4" (uuid 62616ba3-d796-44b9-80a2-c1ef14637915))
-    (pin "5" (uuid 31f4f923-7fd2-4851-8be1-ef910b1dcb29))
+    (pin "1" (uuid 60ee1181-5a1d-43fa-85db-8a1dd03529b1))
+    (pin "2" (uuid 6b1dd183-a11c-43bf-81fb-43ee7a962e21))
+    (pin "3" (uuid 9a0d6812-2e1e-4987-8c87-e77951799e6b))
+    (pin "4" (uuid b1fedb1b-d23a-4278-91c5-882cd28685bf))
+    (pin "5" (uuid 91fecd8a-ed1a-4749-ada9-5dc807ce1ef0))
     (instances
       (project "New BSPD"
         (path "/1f7c501a-057f-4634-92ce-528b01503799"
@@ -2057,7 +2057,7 @@
     (property "Datasheet" "" (at 82.55 25.4 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 2f90dc0a-e3d4-4f28-aba5-44fce89fe751))
+    (pin "1" (uuid a48f9199-087f-4f33-93ae-67a032cfca80))
     (instances
       (project "New BSPD"
         (path "/1f7c501a-057f-4634-92ce-528b01503799"
@@ -2087,20 +2087,20 @@
     (property "Datasheet" "http://www.intersil.com/content/dam/Intersil/documents/cd40/cd4073bms-81bms-82bms.pdf" (at 229.87 124.46 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 366c89d2-2774-49e1-9caa-204ce539f577))
-    (pin "2" (uuid 99bf90ec-e236-4056-863a-c1c7f00589eb))
-    (pin "3" (uuid 343a506d-3f74-4548-8df1-3e102c80bc29))
-    (pin "4" (uuid 1e9d2328-f539-4b27-a92a-0e463c6a025f))
-    (pin "5" (uuid b9bbddcc-a5c4-442d-a5b1-9549466a8153))
-    (pin "6" (uuid 95275152-38f4-4c53-a6cc-a524cf554c3c))
-    (pin "10" (uuid c5890172-1ac9-451d-878f-7103529f0508))
-    (pin "8" (uuid 2036abad-ad8f-4c51-9990-654dce7f088d))
-    (pin "9" (uuid 5223c87d-8062-47bb-a9ac-9182afb89444))
-    (pin "11" (uuid cd14ee01-b3e2-4b07-94a8-8102e568107d))
-    (pin "12" (uuid 275f4b84-df17-4ceb-a686-49321ed8b7d7))
-    (pin "13" (uuid 151c3713-6559-408c-94ea-c547dc569cab))
-    (pin "14" (uuid 595e9203-0e3d-4438-aa1e-c20002e946a4))
-    (pin "7" (uuid 4098e3ce-3f5a-47ad-a3b1-d9f66232d81e))
+    (pin "1" (uuid 70c6e5c4-c264-4926-9461-2714e631f9ef))
+    (pin "2" (uuid 9571706e-1d00-4db0-b39f-3d79ffb186c0))
+    (pin "3" (uuid 3c8f5516-c1a3-4d5c-80b4-be66be8a9a86))
+    (pin "4" (uuid 186a84b1-9859-46f5-908d-22f68a7b74bc))
+    (pin "5" (uuid 688fae51-3e4d-48a0-8f39-1898fb4bdb14))
+    (pin "6" (uuid 298758cf-2a60-44c1-89df-3541773b6b1b))
+    (pin "10" (uuid adbab647-7fcb-481e-b5b3-89e407aea70b))
+    (pin "8" (uuid ccb50b5a-29d5-4dfe-8b31-921582463b2d))
+    (pin "9" (uuid 2e2f2fc0-ba65-4147-8913-fa166d54a091))
+    (pin "11" (uuid e9736fac-36da-4c03-94fe-e662745b18eb))
+    (pin "12" (uuid 99286611-04df-4341-b606-46db2cd0dc1a))
+    (pin "13" (uuid 3eaf8977-7ae1-4483-becd-ac2ec8b55175))
+    (pin "14" (uuid 718621ab-74c2-4558-b54f-519f97f4be91))
+    (pin "7" (uuid 9c07f164-9c95-479d-8288-076149438fa1))
     (instances
       (project "New BSPD"
         (path "/1f7c501a-057f-4634-92ce-528b01503799"
@@ -2125,8 +2125,8 @@
     (property "Datasheet" "~" (at 102.87 34.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 16861234-fcad-4d4f-b457-97e1f9478c15))
-    (pin "2" (uuid 087bd118-ad14-4590-a1a6-c651af20f634))
+    (pin "1" (uuid 54a87038-8532-4491-aeda-20372c851947))
+    (pin "2" (uuid 8df3a57d-f4cc-472a-89f7-a641685dd5ac))
     (instances
       (project "New BSPD"
         (path "/1f7c501a-057f-4634-92ce-528b01503799"
@@ -2156,8 +2156,8 @@
     (property "Datasheet" "~" (at 53.34 33.02 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 586cae0f-b782-4fba-a2f4-e38e51f8e806))
-    (pin "2" (uuid 271ae37e-c1cd-4108-ad5b-596e4e5cdfb9))
+    (pin "1" (uuid cc002c24-1fe8-492d-8ba3-df554c2e41f9))
+    (pin "2" (uuid a73e4699-a4dd-4554-9706-d5ea3a5b2020))
     (instances
       (project "New BSPD"
         (path "/1f7c501a-057f-4634-92ce-528b01503799"
@@ -2187,7 +2187,7 @@
     (property "Datasheet" "" (at 218.44 69.85 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 2efdec88-1d93-4d1f-94ef-a7a15cf4d6f2))
+    (pin "1" (uuid e0036f0c-ce7f-426b-8b73-7f0386056270))
     (instances
       (project "New BSPD"
         (path "/1f7c501a-057f-4634-92ce-528b01503799"
@@ -2217,20 +2217,20 @@
     (property "Datasheet" "http://www.intersil.com/content/dam/Intersil/documents/cd40/cd4073bms-81bms-82bms.pdf" (at 250.19 118.11 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 9526158d-ca69-4c91-b42e-1cfb11912e1c))
-    (pin "2" (uuid 1f5f47b1-23d6-4b31-bbba-a15d871e2585))
-    (pin "3" (uuid 5af0c52e-9f89-4d1d-be09-ea70a96edcb7))
-    (pin "4" (uuid 1e9d2328-f539-4b27-a92a-0e463c6a0261))
-    (pin "5" (uuid b9bbddcc-a5c4-442d-a5b1-9549466a8155))
-    (pin "6" (uuid 95275152-38f4-4c53-a6cc-a524cf554c3e))
-    (pin "10" (uuid c5890172-1ac9-451d-878f-7103529f050a))
-    (pin "8" (uuid 2036abad-ad8f-4c51-9990-654dce7f088f))
-    (pin "9" (uuid 5223c87d-8062-47bb-a9ac-9182afb89446))
-    (pin "11" (uuid cd14ee01-b3e2-4b07-94a8-8102e568107f))
-    (pin "12" (uuid 275f4b84-df17-4ceb-a686-49321ed8b7d9))
-    (pin "13" (uuid 151c3713-6559-408c-94ea-c547dc569cad))
-    (pin "14" (uuid 595e9203-0e3d-4438-aa1e-c20002e946a6))
-    (pin "7" (uuid 4098e3ce-3f5a-47ad-a3b1-d9f66232d820))
+    (pin "1" (uuid 8fbc9213-ff6a-4338-8859-60a7affcfd6c))
+    (pin "2" (uuid 4cf7ed3a-b75f-46e5-a986-be158cc01278))
+    (pin "3" (uuid 642e661d-ade6-42c5-bcd4-b40acc4a7f7d))
+    (pin "4" (uuid 30976a36-f0f3-46f6-a97a-eb60625bdd44))
+    (pin "5" (uuid 3aaa491c-e77f-4d09-83cc-dd86c077dbff))
+    (pin "6" (uuid 58255861-1e13-40d3-8f1a-d100caf5ab11))
+    (pin "10" (uuid d34aceaf-7fb7-4a8b-b736-d2e7c4881869))
+    (pin "8" (uuid 8ad2ce14-4326-4e88-97da-899fe5186b7f))
+    (pin "9" (uuid f65369b8-2b93-419b-b349-fee56d2a9746))
+    (pin "11" (uuid 6eb83aa5-2df6-49e2-828f-69ff01b6a043))
+    (pin "12" (uuid 7cdb3871-b294-448a-a170-720d8064f57f))
+    (pin "13" (uuid 2c17db0d-a732-4b05-9640-8dcf28f320fb))
+    (pin "14" (uuid 0158dad8-270e-4a07-aa94-fe03ce1ea732))
+    (pin "7" (uuid 7a330a06-bb7d-4f5f-8c16-a41e80fbca21))
     (instances
       (project "New BSPD"
         (path "/1f7c501a-057f-4634-92ce-528b01503799"
@@ -2255,7 +2255,7 @@
     (property "Datasheet" "" (at 53.34 29.21 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 166caf50-9c46-4164-a5b1-557d33e63495))
+    (pin "1" (uuid 23bcf89e-da0b-4a75-8cb7-ecdea2bf35e2))
     (instances
       (project "New BSPD"
         (path "/1f7c501a-057f-4634-92ce-528b01503799"
@@ -2285,7 +2285,7 @@
     (property "Datasheet" "" (at 227.33 95.25 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 9e33111d-4039-4839-b7f7-30547650d2ca))
+    (pin "1" (uuid b19f905f-074d-45d7-ab0e-54102073253a))
     (instances
       (project "New BSPD"
         (path "/1f7c501a-057f-4634-92ce-528b01503799"
@@ -2315,7 +2315,7 @@
     (property "Datasheet" "" (at 92.71 25.4 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 2cd0d4be-78a7-44e3-bcae-d172e2cd4b40))
+    (pin "1" (uuid 3729ba29-8288-4ac9-8e5b-709984d55ae8))
     (instances
       (project "New BSPD"
         (path "/1f7c501a-057f-4634-92ce-528b01503799"
@@ -2345,9 +2345,9 @@
     (property "Datasheet" "~" (at 87.63 26.67 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid bc2a60e0-952a-4ce2-812e-03b9111f68ff))
-    (pin "2" (uuid 5a11ae68-96a4-4dc5-a81e-ea9e1aff960c))
-    (pin "3" (uuid c178184f-d8a6-4961-9ca3-b9492780550c))
+    (pin "1" (uuid e00e216b-eccf-47b3-a51b-6c7f9a276c8f))
+    (pin "2" (uuid c6071e41-d5db-4fb9-80a4-f3055a4fc399))
+    (pin "3" (uuid df27ab9c-87e9-4755-8f26-ba6b66349eed))
     (instances
       (project "New BSPD"
         (path "/1f7c501a-057f-4634-92ce-528b01503799"
@@ -2372,7 +2372,7 @@
     (property "Datasheet" "" (at 33.02 25.4 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 6deaf5a4-aa0a-4a6b-b453-0cadb8cceccf))
+    (pin "1" (uuid f8fe2050-7f5f-4fc7-a07a-9ffc6f5d21d4))
     (instances
       (project "New BSPD"
         (path "/1f7c501a-057f-4634-92ce-528b01503799"
@@ -2402,9 +2402,9 @@
     (property "Datasheet" "https://www.infineon.com/dgdl/Infineon-IRLZ44Z-DataSheet-v01_01-EN.pdf?fileId=5546d462533600a4015356722836272a" (at 224.79 90.17 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (pin "1" (uuid 41b6e668-ef52-4529-9939-c1c4fc73714e))
-    (pin "2" (uuid 6586ba2f-220b-426d-a8b3-0d4516065ddb))
-    (pin "3" (uuid e6236930-8551-4c01-a629-01174f30b6d5))
+    (pin "1" (uuid 03cbb58d-3f53-4005-8648-dfce8ffd8a38))
+    (pin "2" (uuid a4bd6d2b-6924-480e-a0d3-5a8ec33ef2a0))
+    (pin "3" (uuid 35472f48-8db6-49b1-acf5-b6bc47e93d3f))
     (instances
       (project "New BSPD"
         (path "/1f7c501a-057f-4634-92ce-528b01503799"
@@ -2434,9 +2434,9 @@
     (property "Datasheet" "https://www.te.com/usa-en/product-282087-1.html" (at 31.75 38.1 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid f8e43dbf-1c45-4835-85a4-9d6815825c23))
-    (pin "2" (uuid 18c87e97-930e-44e7-ae14-bfbf85895fc3))
-    (pin "3" (uuid b35f75d0-3acb-4c17-90f7-bcfca64023dc))
+    (pin "1" (uuid 0d1b2003-3bf5-4726-90c3-6056eebcc558))
+    (pin "2" (uuid d7084d81-b081-4050-b5f5-32c6dc73a133))
+    (pin "3" (uuid 8381ef79-6018-4acf-a130-daab456ce07e))
     (instances
       (project "New BSPD"
         (path "/1f7c501a-057f-4634-92ce-528b01503799"
@@ -2466,7 +2466,7 @@
     (property "Datasheet" "" (at 38.1 43.18 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 2c53c4cf-38f0-456d-8ee0-8b77b179a4a5))
+    (pin "1" (uuid e2a2da9b-37db-4b9f-b568-abf53b117bb4))
     (instances
       (project "New BSPD"
         (path "/1f7c501a-057f-4634-92ce-528b01503799"
@@ -2496,8 +2496,8 @@
     (property "Datasheet" "https://www.onsemi.com/pdf/datasheet/1n5817-d.pdf" (at 222.885 74.295 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 1c0ae8ef-e65d-4e2e-b631-daebfce09923))
-    (pin "2" (uuid 8f67ec1a-f5ef-4cbb-ae59-e8c44b6a55a6))
+    (pin "1" (uuid 2df25f19-836d-4020-ab70-dcdbf7924ca7))
+    (pin "2" (uuid 4dee37bb-e080-4e69-b374-8fefdbc745b4))
     (instances
       (project "New BSPD"
         (path "/1f7c501a-057f-4634-92ce-528b01503799"
@@ -2527,9 +2527,9 @@
     (property "Datasheet" "https://www.te.com/usa-en/product-282087-1.html" (at 81.28 38.1 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 8e47188f-d215-4fda-aac9-85c8e68c6895))
-    (pin "2" (uuid 292f0f80-451f-4d3e-9ff7-f4d644439da6))
-    (pin "3" (uuid 70a1a4ec-6e87-4647-a65d-09c8e2e5b27b))
+    (pin "1" (uuid b61d0832-0a6a-43c1-a6e9-de7b27464d0e))
+    (pin "2" (uuid 459b0423-aedd-4874-a75f-e57b4e563e14))
+    (pin "3" (uuid 44783c6e-e04f-4396-bb21-f8d43a4bb526))
     (instances
       (project "New BSPD"
         (path "/1f7c501a-057f-4634-92ce-528b01503799"
