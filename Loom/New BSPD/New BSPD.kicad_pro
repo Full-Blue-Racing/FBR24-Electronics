@@ -338,6 +338,14 @@
     [
       "826ea561-bd97-47c9-84f4-03823390cccb",
       "Timers"
+    ],
+    [
+      "6659f853-0940-49ae-bcda-2fedad30cd0c",
+      "Power"
+    ],
+    [
+      "e23b6484-bf4c-4467-915e-ff9af2cd8a9e",
+      "Reset Driver"
     ]
   ],
   "text_variables": {}
