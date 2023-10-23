@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "relaybox_indicator_leds")(type "KiCad")(uri "${KIPRJMOD}/relaybox_indicator_leds.pretty")(options "")(descr ""))
+)
