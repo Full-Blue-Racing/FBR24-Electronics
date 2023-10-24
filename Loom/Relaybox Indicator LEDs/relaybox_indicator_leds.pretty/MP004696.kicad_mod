@@ -2,7 +2,7 @@
   (layer "F.Cu")
   (attr through_hole)
   (fp_text reference "REF**" (at 0 -0.5 unlocked) (layer "F.SilkS")
-      (effects (font (size 1 1) (thickness 0.1)))
+      (effects (font (size 1 1) (thickness 0.16)))
     (tstamp e6402887-5757-4117-ad74-8c5ebdd296ca)
   )
   (fp_text value "MP004696" (at 0 1 unlocked) (layer "F.Fab")
