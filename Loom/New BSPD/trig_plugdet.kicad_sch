@@ -1150,6 +1150,11 @@
           (reference "#PWR019") (unit 1)
         )
       )
+      (project "Loom23_detailed"
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/84809ab5-3d5d-476b-b8a2-b0bddaa5de16/81a2d232-b56a-457d-8f4d-f7bde46d944b"
+          (reference "#PWR?") (unit 1)
+        )
+      )
       (project "BSPD - FSG"
         (path "/ea40ab7b-80c4-4cf6-acf9-83a05b0cd5a6"
           (reference "#PWR?") (unit 1)
@@ -1185,6 +1190,11 @@
           (reference "JP4") (unit 1)
         )
       )
+      (project "Loom23_detailed"
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/84809ab5-3d5d-476b-b8a2-b0bddaa5de16/81a2d232-b56a-457d-8f4d-f7bde46d944b"
+          (reference "JP?") (unit 1)
+        )
+      )
     )
   )
 
@@ -1212,6 +1222,11 @@
         )
         (path "/1f7c501a-057f-4634-92ce-528b01503799/81a2d232-b56a-457d-8f4d-f7bde46d944b"
           (reference "R5") (unit 1)
+        )
+      )
+      (project "Loom23_detailed"
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/84809ab5-3d5d-476b-b8a2-b0bddaa5de16/81a2d232-b56a-457d-8f4d-f7bde46d944b"
+          (reference "R?") (unit 1)
         )
       )
       (project "BSPD - FSG"
@@ -1246,6 +1261,11 @@
         )
         (path "/1f7c501a-057f-4634-92ce-528b01503799/81a2d232-b56a-457d-8f4d-f7bde46d944b"
           (reference "D4") (unit 1)
+        )
+      )
+      (project "Loom23_detailed"
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/84809ab5-3d5d-476b-b8a2-b0bddaa5de16/81a2d232-b56a-457d-8f4d-f7bde46d944b"
+          (reference "D?") (unit 1)
         )
       )
       (project "BSPD - FSG"
@@ -1283,6 +1303,11 @@
           (reference "RV3") (unit 1)
         )
       )
+      (project "Loom23_detailed"
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/84809ab5-3d5d-476b-b8a2-b0bddaa5de16/81a2d232-b56a-457d-8f4d-f7bde46d944b"
+          (reference "RV?") (unit 1)
+        )
+      )
       (project "BSPD - FSG"
         (path "/ea40ab7b-80c4-4cf6-acf9-83a05b0cd5a6"
           (reference "RV?") (unit 1)
@@ -1316,6 +1341,11 @@
         )
         (path "/1f7c501a-057f-4634-92ce-528b01503799/81a2d232-b56a-457d-8f4d-f7bde46d944b"
           (reference "JP3") (unit 1)
+        )
+      )
+      (project "Loom23_detailed"
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/84809ab5-3d5d-476b-b8a2-b0bddaa5de16/81a2d232-b56a-457d-8f4d-f7bde46d944b"
+          (reference "JP?") (unit 1)
         )
       )
     )
@@ -1359,6 +1389,11 @@
           (reference "U1") (unit 1)
         )
       )
+      (project "Loom23_detailed"
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/84809ab5-3d5d-476b-b8a2-b0bddaa5de16/81a2d232-b56a-457d-8f4d-f7bde46d944b"
+          (reference "U?") (unit 1)
+        )
+      )
       (project "BSPD - FSG"
         (path "/ea40ab7b-80c4-4cf6-acf9-83a05b0cd5a6"
           (reference "U?") (unit 1)
@@ -1390,6 +1425,11 @@
         )
         (path "/1f7c501a-057f-4634-92ce-528b01503799/81a2d232-b56a-457d-8f4d-f7bde46d944b"
           (reference "#PWR013") (unit 1)
+        )
+      )
+      (project "Loom23_detailed"
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/84809ab5-3d5d-476b-b8a2-b0bddaa5de16/81a2d232-b56a-457d-8f4d-f7bde46d944b"
+          (reference "#PWR?") (unit 1)
         )
       )
       (project "BSPD - FSG"
@@ -1425,6 +1465,11 @@
           (reference "#PWR014") (unit 1)
         )
       )
+      (project "Loom23_detailed"
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/84809ab5-3d5d-476b-b8a2-b0bddaa5de16/81a2d232-b56a-457d-8f4d-f7bde46d944b"
+          (reference "#PWR?") (unit 1)
+        )
+      )
       (project "BSPD - FSG"
         (path "/ea40ab7b-80c4-4cf6-acf9-83a05b0cd5a6"
           (reference "#PWR?") (unit 1)
@@ -1456,6 +1501,11 @@
         )
         (path "/1f7c501a-057f-4634-92ce-528b01503799/81a2d232-b56a-457d-8f4d-f7bde46d944b"
           (reference "#PWR022") (unit 1)
+        )
+      )
+      (project "Loom23_detailed"
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/84809ab5-3d5d-476b-b8a2-b0bddaa5de16/81a2d232-b56a-457d-8f4d-f7bde46d944b"
+          (reference "#PWR?") (unit 1)
         )
       )
       (project "BSPD - FSG"
@@ -1493,6 +1543,11 @@
           (reference "RV1") (unit 1)
         )
       )
+      (project "Loom23_detailed"
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/84809ab5-3d5d-476b-b8a2-b0bddaa5de16/81a2d232-b56a-457d-8f4d-f7bde46d944b"
+          (reference "RV?") (unit 1)
+        )
+      )
       (project "BSPD - FSG"
         (path "/ea40ab7b-80c4-4cf6-acf9-83a05b0cd5a6"
           (reference "RV?") (unit 1)
@@ -1527,6 +1582,11 @@
           (reference "D5") (unit 1)
         )
       )
+      (project "Loom23_detailed"
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/84809ab5-3d5d-476b-b8a2-b0bddaa5de16/81a2d232-b56a-457d-8f4d-f7bde46d944b"
+          (reference "D?") (unit 1)
+        )
+      )
       (project "BSPD - FSG"
         (path "/ea40ab7b-80c4-4cf6-acf9-83a05b0cd5a6"
           (reference "D?") (unit 1)
@@ -1559,6 +1619,11 @@
         )
         (path "/1f7c501a-057f-4634-92ce-528b01503799/81a2d232-b56a-457d-8f4d-f7bde46d944b"
           (reference "D2") (unit 1)
+        )
+      )
+      (project "Loom23_detailed"
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/84809ab5-3d5d-476b-b8a2-b0bddaa5de16/81a2d232-b56a-457d-8f4d-f7bde46d944b"
+          (reference "D?") (unit 1)
         )
       )
       (project "BSPD - FSG"
@@ -1604,6 +1669,11 @@
           (reference "U9") (unit 3)
         )
       )
+      (project "Loom23_detailed"
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/84809ab5-3d5d-476b-b8a2-b0bddaa5de16/81a2d232-b56a-457d-8f4d-f7bde46d944b"
+          (reference "U9") (unit 3)
+        )
+      )
     )
   )
 
@@ -1631,6 +1701,11 @@
         )
         (path "/1f7c501a-057f-4634-92ce-528b01503799/81a2d232-b56a-457d-8f4d-f7bde46d944b"
           (reference "R7") (unit 1)
+        )
+      )
+      (project "Loom23_detailed"
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/84809ab5-3d5d-476b-b8a2-b0bddaa5de16/81a2d232-b56a-457d-8f4d-f7bde46d944b"
+          (reference "R?") (unit 1)
         )
       )
       (project "BSPD - FSG"
@@ -1664,6 +1739,11 @@
         )
         (path "/1f7c501a-057f-4634-92ce-528b01503799/81a2d232-b56a-457d-8f4d-f7bde46d944b"
           (reference "#PWR012") (unit 1)
+        )
+      )
+      (project "Loom23_detailed"
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/84809ab5-3d5d-476b-b8a2-b0bddaa5de16/81a2d232-b56a-457d-8f4d-f7bde46d944b"
+          (reference "#PWR?") (unit 1)
         )
       )
       (project "BSPD - FSG"
@@ -1701,6 +1781,11 @@
           (reference "RV4") (unit 1)
         )
       )
+      (project "Loom23_detailed"
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/84809ab5-3d5d-476b-b8a2-b0bddaa5de16/81a2d232-b56a-457d-8f4d-f7bde46d944b"
+          (reference "RV?") (unit 1)
+        )
+      )
       (project "BSPD - FSG"
         (path "/ea40ab7b-80c4-4cf6-acf9-83a05b0cd5a6"
           (reference "RV?") (unit 1)
@@ -1732,6 +1817,11 @@
         )
         (path "/1f7c501a-057f-4634-92ce-528b01503799/81a2d232-b56a-457d-8f4d-f7bde46d944b"
           (reference "#PWR021") (unit 1)
+        )
+      )
+      (project "Loom23_detailed"
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/84809ab5-3d5d-476b-b8a2-b0bddaa5de16/81a2d232-b56a-457d-8f4d-f7bde46d944b"
+          (reference "#PWR?") (unit 1)
         )
       )
       (project "BSPD - FSG"
@@ -1769,6 +1859,11 @@
           (reference "RV2") (unit 1)
         )
       )
+      (project "Loom23_detailed"
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/84809ab5-3d5d-476b-b8a2-b0bddaa5de16/81a2d232-b56a-457d-8f4d-f7bde46d944b"
+          (reference "RV?") (unit 1)
+        )
+      )
       (project "BSPD - FSG"
         (path "/ea40ab7b-80c4-4cf6-acf9-83a05b0cd5a6"
           (reference "RV?") (unit 1)
@@ -1801,6 +1896,11 @@
         )
         (path "/1f7c501a-057f-4634-92ce-528b01503799/81a2d232-b56a-457d-8f4d-f7bde46d944b"
           (reference "R4") (unit 1)
+        )
+      )
+      (project "Loom23_detailed"
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/84809ab5-3d5d-476b-b8a2-b0bddaa5de16/81a2d232-b56a-457d-8f4d-f7bde46d944b"
+          (reference "R?") (unit 1)
         )
       )
       (project "BSPD - FSG"
@@ -1846,6 +1946,11 @@
           (reference "U9") (unit 4)
         )
       )
+      (project "Loom23_detailed"
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/84809ab5-3d5d-476b-b8a2-b0bddaa5de16/81a2d232-b56a-457d-8f4d-f7bde46d944b"
+          (reference "U9") (unit 4)
+        )
+      )
     )
   )
 
@@ -1872,6 +1977,11 @@
         )
         (path "/1f7c501a-057f-4634-92ce-528b01503799/81a2d232-b56a-457d-8f4d-f7bde46d944b"
           (reference "#PWR016") (unit 1)
+        )
+      )
+      (project "Loom23_detailed"
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/84809ab5-3d5d-476b-b8a2-b0bddaa5de16/81a2d232-b56a-457d-8f4d-f7bde46d944b"
+          (reference "#PWR?") (unit 1)
         )
       )
       (project "BSPD - FSG"
@@ -1908,6 +2018,11 @@
           (reference "D3") (unit 1)
         )
       )
+      (project "Loom23_detailed"
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/84809ab5-3d5d-476b-b8a2-b0bddaa5de16/81a2d232-b56a-457d-8f4d-f7bde46d944b"
+          (reference "D?") (unit 1)
+        )
+      )
       (project "BSPD - FSG"
         (path "/ea40ab7b-80c4-4cf6-acf9-83a05b0cd5a6"
           (reference "D?") (unit 1)
@@ -1939,6 +2054,11 @@
         )
         (path "/1f7c501a-057f-4634-92ce-528b01503799/81a2d232-b56a-457d-8f4d-f7bde46d944b"
           (reference "#PWR020") (unit 1)
+        )
+      )
+      (project "Loom23_detailed"
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/84809ab5-3d5d-476b-b8a2-b0bddaa5de16/81a2d232-b56a-457d-8f4d-f7bde46d944b"
+          (reference "#PWR?") (unit 1)
         )
       )
       (project "BSPD - FSG"
@@ -1974,6 +2094,11 @@
           (reference "#PWR018") (unit 1)
         )
       )
+      (project "Loom23_detailed"
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/84809ab5-3d5d-476b-b8a2-b0bddaa5de16/81a2d232-b56a-457d-8f4d-f7bde46d944b"
+          (reference "#PWR?") (unit 1)
+        )
+      )
       (project "BSPD - FSG"
         (path "/ea40ab7b-80c4-4cf6-acf9-83a05b0cd5a6"
           (reference "#PWR?") (unit 1)
@@ -2006,6 +2131,11 @@
         )
         (path "/1f7c501a-057f-4634-92ce-528b01503799/81a2d232-b56a-457d-8f4d-f7bde46d944b"
           (reference "R6") (unit 1)
+        )
+      )
+      (project "Loom23_detailed"
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/84809ab5-3d5d-476b-b8a2-b0bddaa5de16/81a2d232-b56a-457d-8f4d-f7bde46d944b"
+          (reference "R?") (unit 1)
         )
       )
       (project "BSPD - FSG"
@@ -2051,6 +2181,11 @@
           (reference "U9") (unit 1)
         )
       )
+      (project "Loom23_detailed"
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/84809ab5-3d5d-476b-b8a2-b0bddaa5de16/81a2d232-b56a-457d-8f4d-f7bde46d944b"
+          (reference "U9") (unit 1)
+        )
+      )
     )
   )
 
@@ -2089,6 +2224,11 @@
           (reference "U9") (unit 2)
         )
       )
+      (project "Loom23_detailed"
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/84809ab5-3d5d-476b-b8a2-b0bddaa5de16/81a2d232-b56a-457d-8f4d-f7bde46d944b"
+          (reference "U9") (unit 2)
+        )
+      )
     )
   )
 
@@ -2115,6 +2255,11 @@
         )
         (path "/1f7c501a-057f-4634-92ce-528b01503799/81a2d232-b56a-457d-8f4d-f7bde46d944b"
           (reference "#PWR017") (unit 1)
+        )
+      )
+      (project "Loom23_detailed"
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/84809ab5-3d5d-476b-b8a2-b0bddaa5de16/81a2d232-b56a-457d-8f4d-f7bde46d944b"
+          (reference "#PWR?") (unit 1)
         )
       )
       (project "BSPD - FSG"
@@ -2163,6 +2308,11 @@
           (reference "U1") (unit 2)
         )
       )
+      (project "Loom23_detailed"
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/84809ab5-3d5d-476b-b8a2-b0bddaa5de16/81a2d232-b56a-457d-8f4d-f7bde46d944b"
+          (reference "U?") (unit 1)
+        )
+      )
       (project "BSPD - FSG"
         (path "/ea40ab7b-80c4-4cf6-acf9-83a05b0cd5a6"
           (reference "U?") (unit 1)
@@ -2196,6 +2346,11 @@
           (reference "#PWR011") (unit 1)
         )
       )
+      (project "Loom23_detailed"
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/84809ab5-3d5d-476b-b8a2-b0bddaa5de16/81a2d232-b56a-457d-8f4d-f7bde46d944b"
+          (reference "#PWR?") (unit 1)
+        )
+      )
       (project "BSPD - FSG"
         (path "/ea40ab7b-80c4-4cf6-acf9-83a05b0cd5a6"
           (reference "#PWR?") (unit 1)
@@ -2227,6 +2382,11 @@
         )
         (path "/1f7c501a-057f-4634-92ce-528b01503799/81a2d232-b56a-457d-8f4d-f7bde46d944b"
           (reference "#PWR015") (unit 1)
+        )
+      )
+      (project "Loom23_detailed"
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/84809ab5-3d5d-476b-b8a2-b0bddaa5de16/81a2d232-b56a-457d-8f4d-f7bde46d944b"
+          (reference "#PWR?") (unit 1)
         )
       )
       (project "BSPD - FSG"

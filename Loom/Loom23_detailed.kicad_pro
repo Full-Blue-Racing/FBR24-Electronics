@@ -456,6 +456,14 @@
       "Lambda sensor"
     ],
     [
+      "81a2d232-b56a-457d-8f4d-f7bde46d944b",
+      "Triggers and Plug Detection"
+    ],
+    [
+      "c1af1d02-f1c8-42b8-8d3c-ac3883e05aae",
+      "State Machine"
+    ],
+    [
       "31af8776-e20e-4678-af96-7d5469953b0e",
       "Dash Arduino and screen"
     ],
@@ -488,8 +496,12 @@
       "Starter motor"
     ],
     [
-      "10890e7c-b700-45d3-80f8-41487eb0e501",
-      "BSPD"
+      "826ea561-bd97-47c9-84f4-03823390cccb",
+      "Timers"
+    ],
+    [
+      "6659f853-0940-49ae-bcda-2fedad30cd0c",
+      "Power"
     ],
     [
       "e7e35a98-fa36-447d-8c61-939a2107a6a8",
@@ -498,6 +510,10 @@
     [
       "1d4732f1-f7ed-413e-8ddf-5b2c37a3c5df",
       "Injector1"
+    ],
+    [
+      "e23b6484-bf4c-4467-915e-ff9af2cd8a9e",
+      "Reset Driver"
     ],
     [
       "a655e90c-85b5-46df-aa47-8693253a1546",
@@ -538,6 +554,10 @@
     [
       "ec5165aa-5de5-4e50-86cd-30f7ed0f02bc",
       "Telemetry"
+    ],
+    [
+      "84809ab5-3d5d-476b-b8a2-b0bddaa5de16",
+      "New BSPD"
     ],
     [
       "1d27a9e1-a99a-46d7-b2ea-46112bae4d76",
