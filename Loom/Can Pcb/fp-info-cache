@@ -1,4 +1,4 @@
-22358501472149844
+22360214414915593
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -13,13 +13,6 @@ audio belton reverb
 0
 7
 7
-BSPD_footprints
-ATF13-2P-BM03
-
-
-0
-3
-3
 BSPD_footprints
 ATF13-3P-BM03
 
@@ -54859,6 +54852,13 @@ One digit LED 7 segment SA39-11 SC39-11 SA39-12 SC39-12
 10
 10
 Ferrite_THT
+KEMET B-06-R-25
+
+
+0
+2
+2
+Ferrite_THT
 LairdTech_28C0236-0JW-10
 Ferrite, vertical, LairdTech 28C0236-0JW-10, https://assets.lairdtech.com/home/brandworld/files/28C0236-0JW-10.pdf, JW Miller core https://www.bourns.com/products/magnetic-products/j.w.-miller-through-hole-ferrite-beads-emi-filters
 Ferrite vertical LairdTech 28C0236-0JW-10
@@ -55075,6 +55075,13 @@ TO254P1036X470X1965-3
 0
 3
 3
+Footprints
+fbr image
+
+
+0
+0
+0
 Fuse
 Fuse_0402_1005Metric
 Fuse SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
@@ -80357,7 +80364,7 @@ TO-220-3_Horizontal_TabDown
 TO-220-3, Horizontal, RM 2.54mm, see https://www.vishay.com/docs/66542/to-220-1.pdf
 TO-220-3 Horizontal RM 2.54mm
 0
-3
+4
 3
 Package_TO_SOT_THT
 TO-220-3_Horizontal_TabUp
