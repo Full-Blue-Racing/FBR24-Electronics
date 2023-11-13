@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 9B-16.000MAAJ-B
+D Crystals 16.000MHz 30ppm -20 +70C 18pF
+K
+F https://componentsearchengine.com/Datasheets/2/9B-16.000MAAJ-B.pdf
+$ENDCMP
+#
+#End Doc Library

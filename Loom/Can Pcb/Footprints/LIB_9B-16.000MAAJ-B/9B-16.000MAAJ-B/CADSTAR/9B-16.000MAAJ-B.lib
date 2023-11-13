@@ -1,0 +1,16 @@
+.9B-16.000MAAJ-B :1 ;Crystals 16.000MHz 30ppm -20 +70C 18pF
+"9B16000MAAJB"
+*STM Y
+*NGS
+*PLB 1="X1" 2="X2"
+*MXP 2
+*DFN 9B-16.000MAAJ-B
+~!Mouser Part Number (717-9B-16.000MAAJ-B)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/TXC-Corporation/9B-16.000MAAJ-B?qs=65dIHZNch5sIbXzJj8%2F8aw%3D%3D)
+~!Manufacturer_Name (TXC CORPORATION)
+~!Manufacturer_Part_Number (9B-16.000MAAJ-B)
+~!Link Datasheet (https://componentsearchengine.com/Datasheets/2/9B-16.000MAAJ-B.pdf)
+~!Height (3.68mm)
+~!3D_Model (9B-16.000MAAJ-B)
+"9B-16.000MAAJ-B"
+1.1!U 2.1!U 

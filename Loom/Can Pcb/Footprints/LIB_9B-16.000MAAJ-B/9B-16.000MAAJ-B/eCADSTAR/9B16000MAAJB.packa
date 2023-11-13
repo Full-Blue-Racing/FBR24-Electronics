@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "9B-16_000MAAJ-B"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2021-01-12-09:40:13)
+    (mountForm default
+        (footprintRef "9B16000MAAJB")
+        (spec "System")
+    )
+)
