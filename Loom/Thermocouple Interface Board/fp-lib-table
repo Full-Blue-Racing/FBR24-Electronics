@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "footprints")(type "KiCad")(uri "/Users/ohydon/Documents/Uni Files/IB/Full Blue Racing/FBR24-Electronics/Loom/Can Pcb/Footprints")(options "")(descr ""))
+  (lib (name "bspd")(type "KiCad")(uri "/Users/ohydon/Documents/Uni Files/IB/Full Blue Racing/FBR24-Electronics/Loom/New BSPD/BSPD_footprints.pretty")(options "")(descr ""))
+)
