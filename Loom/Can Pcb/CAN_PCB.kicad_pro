@@ -49,12 +49,7 @@
         }
       },
       "diff_pair_dimensions": [],
-      "drc_exclusions": [
-        "lib_footprint_issues|217170000|126492000|c8a4d577-5fe1-41c9-bdcd-1db458b981d4|00000000-0000-0000-0000-000000000000",
-        "lib_footprint_issues|217170000|48768000|7945adae-c56d-4579-925b-09bdcadbc5f9|00000000-0000-0000-0000-000000000000",
-        "lib_footprint_issues|97790000|126492000|4fd37f58-83cd-45d7-a107-d3c419f15cc3|00000000-0000-0000-0000-000000000000",
-        "lib_footprint_issues|97790000|48768000|142466c9-44cb-45a3-9b51-851fc725ba0e|00000000-0000-0000-0000-000000000000"
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
