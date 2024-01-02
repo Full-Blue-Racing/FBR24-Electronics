@@ -1484,7 +1484,7 @@
     (property "Value" "Screw_Terminal_01x02" (at 76.2 33.02 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "TerminalBlock:TerminalBlock_bornier-2_P5.08mm" (at 73.66 30.48 0)
+    (property "Footprint" "BSPD_footprints:ATF13-2P-BM03" (at 73.66 30.48 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 73.66 30.48 0)
