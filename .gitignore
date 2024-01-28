@@ -1,3 +1,5 @@
 
 *.zip
 fp-info-cache
+*.kicad_plr
+*.rar
