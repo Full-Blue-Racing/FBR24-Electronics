@@ -1,4 +1,4 @@
-22360214414915593
+22361913575960284
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -13,6 +13,13 @@ audio belton reverb
 0
 7
 7
+BSPD_footprints
+ATF13-2P-BM03
+
+
+0
+3
+3
 BSPD_footprints
 ATF13-3P-BM03
 
