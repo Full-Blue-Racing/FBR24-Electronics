@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '9B_16.000MAAJ_B'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "TXC CORPORATION", "9B-16.000MAAJ-B" (!) = "", "9B16000MAAJB", "Other", "717-9B-16.000MAAJ-B", "https://www.mouser.co.uk/ProductDetail/TXC-Corporation/9B-16.000MAAJ-B?qs=65dIHZNch5sIbXzJj8%2F8aw%3D%3D", "Crystals 16.000MHz 30ppm -20 +70C 18pF", "https://componentsearchengine.com/Datasheets/2/9B-16.000MAAJ-B.pdf", "3.68 mm"
+END_PART
+
+END.
