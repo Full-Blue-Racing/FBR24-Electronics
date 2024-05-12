@@ -616,14 +616,6 @@
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 000b1a15-a8b2-4851-87db-b3318e53ae45)
   )
-  (label "SIG1" (at 99.695 38.735 180) (fields_autoplaced)
-    (effects (font (size 1.27 1.27)) (justify right bottom))
-    (uuid 0140ec85-4071-455f-b463-4acc1c7f5b80)
-  )
-  (label "POW7" (at 83.185 43.815 0) (fields_autoplaced)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid 02af753e-07d7-4c7b-86d3-835518fef76e)
-  )
   (label "GND" (at 123.825 98.425 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 044c41e9-73d3-471f-82e1-7707c009bdc6)
@@ -659,10 +651,6 @@
   (label "POW6" (at 231.14 73.66 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 1775b221-2405-4808-bef6-885a24a8adce)
-  )
-  (label "POW4" (at 62.865 46.355 180) (fields_autoplaced)
-    (effects (font (size 1.27 1.27)) (justify right bottom))
-    (uuid 19bab908-d555-4083-9260-004c83abdf1f)
   )
   (label "SIG7" (at 257.175 137.16 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
@@ -712,10 +700,6 @@
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 55e5acf4-53fa-4dec-ae7e-867450bda989)
   )
-  (label "GND" (at 83.185 46.355 0) (fields_autoplaced)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid 5a27c67a-f110-4143-85ff-074a84495fb9)
-  )
   (label "GND" (at 47.625 114.3 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 5b86a2da-07d0-4ea2-beb2-7df20b8d746b)
@@ -724,10 +708,6 @@
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 5fa2810f-636d-417a-9276-8e4147fcc585)
   )
-  (label "SIG5" (at 120.015 38.735 0) (fields_autoplaced)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid 6419943d-5e8d-4687-8b0e-36f5e49bd231)
-  )
   (label "SIG6" (at 220.98 135.89 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 68d98856-3b7e-4e62-921e-3f3620bac189)
@@ -735,10 +715,6 @@
   (label "SIG5" (at 182.88 135.89 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 691605ab-f257-473a-9938-74abbb042ba3)
-  )
-  (label "SIG2" (at 99.695 41.275 180) (fields_autoplaced)
-    (effects (font (size 1.27 1.27)) (justify right bottom))
-    (uuid 715b74ea-443c-4c97-a89e-f6d63e113adb)
   )
   (label "GND" (at 193.675 99.06 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
@@ -764,17 +740,9 @@
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 8cd1665f-42ac-498e-877f-d1aad92be773)
   )
-  (label "POW3" (at 62.865 43.815 180) (fields_autoplaced)
-    (effects (font (size 1.27 1.27)) (justify right bottom))
-    (uuid 8df679c3-9a2c-4a5c-8587-2f5dccd3ed80)
-  )
   (label "GND" (at 257.175 162.56 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 90e6e503-2042-4ce3-8c83-de5da72b7c06)
-  )
-  (label "POW2" (at 62.865 41.275 180) (fields_autoplaced)
-    (effects (font (size 1.27 1.27)) (justify right bottom))
-    (uuid 9b6bf250-82a3-464e-ba1f-9258bdc3000c)
   )
   (label "SIG5" (at 182.88 156.21 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
@@ -792,10 +760,6 @@
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid ad69b262-354f-4ed5-82d9-1357b2437777)
   )
-  (label "SIG6" (at 120.015 41.275 0) (fields_autoplaced)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid b1a4b116-0699-450d-830e-3aff97e5aad7)
-  )
   (label "SIG3" (at 116.205 147.32 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid b31d1cb4-a1a0-4831-8d92-14c6d2f660ba)
@@ -808,10 +772,6 @@
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid b6cf106b-65c7-45de-9986-072a14166433)
   )
-  (label "SIG4" (at 99.695 46.355 180) (fields_autoplaced)
-    (effects (font (size 1.27 1.27)) (justify right bottom))
-    (uuid b6f5f584-9452-44e9-ac38-02f395ba5824)
-  )
   (label "POW5" (at 193.04 73.66 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid bf4d9c29-6726-452a-a5b6-0f037e95f2ea)
@@ -819,10 +779,6 @@
   (label "GND" (at 54.61 100.965 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid c6b3795d-f25a-4004-a311-9c990eddfdc7)
-  )
-  (label "POW6" (at 83.185 41.275 0) (fields_autoplaced)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid cebd672d-96ca-4cba-ab1f-6a432f52d3c8)
   )
   (label "SIG2" (at 78.74 156.21 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
@@ -835,18 +791,6 @@
   (label "SIG4" (at 151.13 136.525 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid d90a2515-3ae9-46b1-8d45-310f88e2b03e)
-  )
-  (label "SIG7" (at 120.015 43.815 0) (fields_autoplaced)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid dbb5ce22-d923-4960-833d-343a326f5f2d)
-  )
-  (label "POW1" (at 62.865 38.735 180) (fields_autoplaced)
-    (effects (font (size 1.27 1.27)) (justify right bottom))
-    (uuid e09fe74f-32cc-468e-8a43-ba6ac120d3bf)
-  )
-  (label "SIG3" (at 99.695 43.815 180) (fields_autoplaced)
-    (effects (font (size 1.27 1.27)) (justify right bottom))
-    (uuid e8a25b10-65fb-4c4d-a2f1-06f59aef9627)
   )
   (label "GND" (at 161.925 99.695 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
@@ -864,17 +808,74 @@
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid f3fc732a-7682-4bbc-ae02-a3f7a86a3f44)
   )
-  (label "POW5" (at 83.185 38.735 0) (fields_autoplaced)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid f6fe189c-1e57-4dca-880f-bfaea76f1ec2)
-  )
   (label "SIG3" (at 113.03 155.575 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid fbb4c546-864b-48b7-9520-847d4afbce6d)
   )
-  (label "+12V" (at 120.015 46.355 0) (fields_autoplaced)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid fe37d843-acc0-4285-918e-d48a38a3994a)
+
+  (hierarchical_label "POW7" (shape input) (at 83.185 43.815 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 0a85febf-4eb1-447f-8440-9c1b6af7eb24)
+  )
+  (hierarchical_label "SIG3" (shape input) (at 99.695 43.815 180) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify right))
+    (uuid 113737a1-d982-42f7-8796-a07f7233fe0a)
+  )
+  (hierarchical_label "GND" (shape input) (at 83.185 46.355 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 36281264-6850-4dfa-b060-965797cb8635)
+  )
+  (hierarchical_label "SIG5" (shape input) (at 120.015 38.735 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 3c402638-e809-47ab-96f7-fe95dce80d6f)
+  )
+  (hierarchical_label "SIG1" (shape input) (at 99.695 38.735 180) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify right))
+    (uuid 41836702-59a4-4bd6-b083-fdac0ec19683)
+  )
+  (hierarchical_label "+12V" (shape input) (at 120.015 46.355 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 42e3266a-9fe4-4f91-8df4-6cfb247a7fd7)
+  )
+  (hierarchical_label "POW5" (shape input) (at 83.185 38.735 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 4b03daa4-4a3c-44e7-b5cc-8caa4f6c17c8)
+  )
+  (hierarchical_label "POW2" (shape input) (at 62.865 41.275 180) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify right))
+    (uuid 6d3b22a8-fe0c-4d38-b1a3-3ef09482fb45)
+  )
+  (hierarchical_label "POW6" (shape input) (at 83.185 41.275 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 6de0030e-fccd-4f7c-9d67-ee3c8276c9be)
+  )
+  (hierarchical_label "SIG7" (shape input) (at 120.015 43.815 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid b55d1ace-fde7-490d-a4e3-117f722befbd)
+  )
+  (hierarchical_label "POW1" (shape input) (at 62.865 38.735 180) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify right))
+    (uuid c67407d3-02e2-4a5e-ae3f-20491f30a81d)
+  )
+  (hierarchical_label "SIG6" (shape input) (at 120.015 41.275 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid df70d654-bc20-4ae1-9515-31d45a54151a)
+  )
+  (hierarchical_label "SIG4" (shape input) (at 99.695 46.355 180) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify right))
+    (uuid e78546e1-4e8a-4c61-a4c7-b06bbc22da2e)
+  )
+  (hierarchical_label "SIG2" (shape input) (at 99.695 41.275 180) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify right))
+    (uuid e9018279-81a9-49bd-8a9e-04dc121a6a27)
+  )
+  (hierarchical_label "POW3" (shape input) (at 62.865 43.815 180) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify right))
+    (uuid f065f5bf-c26a-4313-90e5-ced01faed23e)
+  )
+  (hierarchical_label "POW4" (shape input) (at 62.865 46.355 180) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify right))
+    (uuid fd4312f9-1246-495f-a24c-23be6471a61a)
   )
 
   (symbol (lib_id "Switch:SW_DPDT_x2") (at 187.96 133.35 180) (unit 1)
@@ -899,6 +900,11 @@
     (pin "5" (uuid 05995ed3-26a2-44d7-b2ce-31fac4be8bad))
     (pin "6" (uuid 458a7c78-6bfb-4aeb-ad70-da547cc13407))
     (instances
+      (project "Loom23_detailed"
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/a7107cd9-89dc-4f07-9e0b-2ae547c51352"
+          (reference "SW5") (unit 1)
+        )
+      )
       (project "relaybox_indicator_leds"
         (path "/e4157ee5-7fca-4f01-ba05-914dbd2da267"
           (reference "SW5") (unit 1)
@@ -924,6 +930,11 @@
     )
     (pin "1" (uuid 21688b1f-a0b5-48b8-98aa-b7becb9ec9d4))
     (instances
+      (project "Loom23_detailed"
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/a7107cd9-89dc-4f07-9e0b-2ae547c51352"
+          (reference "TP4") (unit 1)
+        )
+      )
       (project "relaybox_indicator_leds"
         (path "/e4157ee5-7fca-4f01-ba05-914dbd2da267"
           (reference "TP4") (unit 1)
@@ -949,6 +960,11 @@
     )
     (pin "1" (uuid 53b4a1ab-1163-489a-b2a2-f18b1a442845))
     (instances
+      (project "Loom23_detailed"
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/a7107cd9-89dc-4f07-9e0b-2ae547c51352"
+          (reference "TP6") (unit 1)
+        )
+      )
       (project "relaybox_indicator_leds"
         (path "/e4157ee5-7fca-4f01-ba05-914dbd2da267"
           (reference "TP6") (unit 1)
@@ -974,6 +990,11 @@
     )
     (pin "1" (uuid 9fec2b6f-12b7-45a8-b35e-8237ee498811))
     (instances
+      (project "Loom23_detailed"
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/a7107cd9-89dc-4f07-9e0b-2ae547c51352"
+          (reference "TP2") (unit 1)
+        )
+      )
       (project "relaybox_indicator_leds"
         (path "/e4157ee5-7fca-4f01-ba05-914dbd2da267"
           (reference "TP2") (unit 1)
@@ -1000,6 +1021,11 @@
     (pin "1" (uuid b0cffec8-db75-4cb8-b3b0-246976e01edf))
     (pin "2" (uuid d5742658-3315-4cd1-90e6-dea373151414))
     (instances
+      (project "Loom23_detailed"
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/a7107cd9-89dc-4f07-9e0b-2ae547c51352"
+          (reference "D8") (unit 1)
+        )
+      )
       (project "relaybox_indicator_leds"
         (path "/e4157ee5-7fca-4f01-ba05-914dbd2da267"
           (reference "D8") (unit 1)
@@ -1030,6 +1056,11 @@
     (pin "5" (uuid 05995ed3-26a2-44d7-b2ce-31fac4be8bae))
     (pin "6" (uuid 458a7c78-6bfb-4aeb-ad70-da547cc13408))
     (instances
+      (project "Loom23_detailed"
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/a7107cd9-89dc-4f07-9e0b-2ae547c51352"
+          (reference "SW4") (unit 1)
+        )
+      )
       (project "relaybox_indicator_leds"
         (path "/e4157ee5-7fca-4f01-ba05-914dbd2da267"
           (reference "SW4") (unit 1)
@@ -1056,6 +1087,11 @@
     (pin "1" (uuid 256df71d-6654-4a6c-8fbf-dedbf2cb8ddb))
     (pin "2" (uuid f18ac01c-9eaa-4efe-b0d8-63503d10e0bc))
     (instances
+      (project "Loom23_detailed"
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/a7107cd9-89dc-4f07-9e0b-2ae547c51352"
+          (reference "R6") (unit 1)
+        )
+      )
       (project "relaybox_indicator_leds"
         (path "/e4157ee5-7fca-4f01-ba05-914dbd2da267"
           (reference "R6") (unit 1)
@@ -1086,6 +1122,11 @@
     (pin "5" (uuid 8760cc4d-6064-4bcb-901d-2c145e78b1a0))
     (pin "6" (uuid 5f180c95-0919-4991-b43b-f110b1f7f078))
     (instances
+      (project "Loom23_detailed"
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/a7107cd9-89dc-4f07-9e0b-2ae547c51352"
+          (reference "SW1") (unit 2)
+        )
+      )
       (project "relaybox_indicator_leds"
         (path "/e4157ee5-7fca-4f01-ba05-914dbd2da267"
           (reference "SW1") (unit 2)
@@ -1112,6 +1153,11 @@
     (pin "1" (uuid 2026207e-ef15-48a5-8355-efcd37745f1c))
     (pin "2" (uuid 09642b2d-bcd5-46ff-810e-9bb435d95fc6))
     (instances
+      (project "Loom23_detailed"
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/a7107cd9-89dc-4f07-9e0b-2ae547c51352"
+          (reference "D11") (unit 1)
+        )
+      )
       (project "relaybox_indicator_leds"
         (path "/e4157ee5-7fca-4f01-ba05-914dbd2da267"
           (reference "D11") (unit 1)
@@ -1137,6 +1183,11 @@
     )
     (pin "1" (uuid c16df944-b081-48dd-815c-9408795b5dce))
     (instances
+      (project "Loom23_detailed"
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/a7107cd9-89dc-4f07-9e0b-2ae547c51352"
+          (reference "TP1") (unit 1)
+        )
+      )
       (project "relaybox_indicator_leds"
         (path "/e4157ee5-7fca-4f01-ba05-914dbd2da267"
           (reference "TP1") (unit 1)
@@ -1163,6 +1214,11 @@
     (pin "1" (uuid 2f3d9c23-f64c-4e60-8d8b-3e06ed073953))
     (pin "2" (uuid d18c306f-a4b3-440d-bacf-93cc62868416))
     (instances
+      (project "Loom23_detailed"
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/a7107cd9-89dc-4f07-9e0b-2ae547c51352"
+          (reference "D7") (unit 1)
+        )
+      )
       (project "relaybox_indicator_leds"
         (path "/e4157ee5-7fca-4f01-ba05-914dbd2da267"
           (reference "D7") (unit 1)
@@ -1189,6 +1245,11 @@
     (pin "1" (uuid 4cba96c8-fb4f-4df8-8778-c93b02497e81))
     (pin "2" (uuid 078d3fe1-17b1-4df3-b7a5-88ed4d4d70dd))
     (instances
+      (project "Loom23_detailed"
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/a7107cd9-89dc-4f07-9e0b-2ae547c51352"
+          (reference "R1") (unit 1)
+        )
+      )
       (project "relaybox_indicator_leds"
         (path "/e4157ee5-7fca-4f01-ba05-914dbd2da267"
           (reference "R1") (unit 1)
@@ -1215,6 +1276,11 @@
     (pin "1" (uuid 9515e3cd-0222-4da0-aa46-75b1bb85adce))
     (pin "2" (uuid ba93760e-1045-4b6d-a3d9-3f10e4bc3b46))
     (instances
+      (project "Loom23_detailed"
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/a7107cd9-89dc-4f07-9e0b-2ae547c51352"
+          (reference "D6") (unit 1)
+        )
+      )
       (project "relaybox_indicator_leds"
         (path "/e4157ee5-7fca-4f01-ba05-914dbd2da267"
           (reference "D6") (unit 1)
@@ -1241,6 +1307,11 @@
     (pin "1" (uuid 870b877c-77f6-4db9-96a7-82dba868ff57))
     (pin "2" (uuid 4b4b1581-e94b-40d9-a21c-69270dde0967))
     (instances
+      (project "Loom23_detailed"
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/a7107cd9-89dc-4f07-9e0b-2ae547c51352"
+          (reference "D2") (unit 1)
+        )
+      )
       (project "relaybox_indicator_leds"
         (path "/e4157ee5-7fca-4f01-ba05-914dbd2da267"
           (reference "D2") (unit 1)
@@ -1267,6 +1338,11 @@
     (pin "1" (uuid eab84613-3b21-4138-8b08-cd9c16cf918b))
     (pin "2" (uuid 1088e804-de4c-453a-a29b-fd69d943e818))
     (instances
+      (project "Loom23_detailed"
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/a7107cd9-89dc-4f07-9e0b-2ae547c51352"
+          (reference "D4") (unit 1)
+        )
+      )
       (project "relaybox_indicator_leds"
         (path "/e4157ee5-7fca-4f01-ba05-914dbd2da267"
           (reference "D4") (unit 1)
@@ -1297,6 +1373,11 @@
     (pin "5" (uuid 85088691-68d7-49ef-a3ba-59313b49fcf0))
     (pin "6" (uuid f275431e-5adc-4364-b8b9-0d8e8839cc0a))
     (instances
+      (project "Loom23_detailed"
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/a7107cd9-89dc-4f07-9e0b-2ae547c51352"
+          (reference "SW7") (unit 2)
+        )
+      )
       (project "relaybox_indicator_leds"
         (path "/e4157ee5-7fca-4f01-ba05-914dbd2da267"
           (reference "SW7") (unit 2)
@@ -1323,6 +1404,11 @@
     (pin "1" (uuid ae7cd5f4-1cc8-454e-bb7f-5a968c0508d9))
     (pin "2" (uuid e69d7353-ff54-4a61-8cfc-73b256e96f39))
     (instances
+      (project "Loom23_detailed"
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/a7107cd9-89dc-4f07-9e0b-2ae547c51352"
+          (reference "D3") (unit 1)
+        )
+      )
       (project "relaybox_indicator_leds"
         (path "/e4157ee5-7fca-4f01-ba05-914dbd2da267"
           (reference "D3") (unit 1)
@@ -1349,6 +1435,11 @@
     (pin "1" (uuid da54e99c-d09a-41d1-b4e6-931b3c691784))
     (pin "2" (uuid 98222033-c1d5-47a9-9e80-aac89d0320df))
     (instances
+      (project "Loom23_detailed"
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/a7107cd9-89dc-4f07-9e0b-2ae547c51352"
+          (reference "R3") (unit 1)
+        )
+      )
       (project "relaybox_indicator_leds"
         (path "/e4157ee5-7fca-4f01-ba05-914dbd2da267"
           (reference "R3") (unit 1)
@@ -1375,6 +1466,11 @@
     (pin "1" (uuid 5404c4b5-afc5-4c84-8dac-e682fe60d409))
     (pin "2" (uuid 72ca90ca-208f-4bed-8309-3f63cceef9cc))
     (instances
+      (project "Loom23_detailed"
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/a7107cd9-89dc-4f07-9e0b-2ae547c51352"
+          (reference "D10") (unit 1)
+        )
+      )
       (project "relaybox_indicator_leds"
         (path "/e4157ee5-7fca-4f01-ba05-914dbd2da267"
           (reference "D10") (unit 1)
@@ -1400,6 +1496,11 @@
     )
     (pin "1" (uuid d339b87b-30b2-4d09-a625-3048ffb71d54))
     (instances
+      (project "Loom23_detailed"
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/a7107cd9-89dc-4f07-9e0b-2ae547c51352"
+          (reference "TP15") (unit 1)
+        )
+      )
       (project "relaybox_indicator_leds"
         (path "/e4157ee5-7fca-4f01-ba05-914dbd2da267"
           (reference "TP15") (unit 1)
@@ -1426,6 +1527,11 @@
     (pin "1" (uuid 08fd9b9f-e322-42ce-806e-4ba654851ca3))
     (pin "2" (uuid f008ec44-213c-4001-9bf4-e871c0e6e702))
     (instances
+      (project "Loom23_detailed"
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/a7107cd9-89dc-4f07-9e0b-2ae547c51352"
+          (reference "R11") (unit 1)
+        )
+      )
       (project "relaybox_indicator_leds"
         (path "/e4157ee5-7fca-4f01-ba05-914dbd2da267"
           (reference "R11") (unit 1)
@@ -1451,6 +1557,11 @@
     )
     (pin "1" (uuid e684ddbe-9df7-40fe-a677-43fb4e6c8518))
     (instances
+      (project "Loom23_detailed"
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/a7107cd9-89dc-4f07-9e0b-2ae547c51352"
+          (reference "TP8") (unit 1)
+        )
+      )
       (project "relaybox_indicator_leds"
         (path "/e4157ee5-7fca-4f01-ba05-914dbd2da267"
           (reference "TP8") (unit 1)
@@ -1477,6 +1588,11 @@
     (pin "1" (uuid a3e6ffbe-52a6-4572-b24c-57d8a3d9dc07))
     (pin "2" (uuid d11eda83-3435-46b2-afe7-bf954e3fc89c))
     (instances
+      (project "Loom23_detailed"
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/a7107cd9-89dc-4f07-9e0b-2ae547c51352"
+          (reference "R5") (unit 1)
+        )
+      )
       (project "relaybox_indicator_leds"
         (path "/e4157ee5-7fca-4f01-ba05-914dbd2da267"
           (reference "R5") (unit 1)
@@ -1503,6 +1619,11 @@
     (pin "1" (uuid 6bd97550-be4f-4e5c-8612-9a065a2ec8c5))
     (pin "2" (uuid 6faa1897-e729-4897-814b-040876cb77bb))
     (instances
+      (project "Loom23_detailed"
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/a7107cd9-89dc-4f07-9e0b-2ae547c51352"
+          (reference "D12") (unit 1)
+        )
+      )
       (project "relaybox_indicator_leds"
         (path "/e4157ee5-7fca-4f01-ba05-914dbd2da267"
           (reference "D12") (unit 1)
@@ -1529,6 +1650,11 @@
     (pin "1" (uuid ef532769-b99e-4a6a-8e2f-1c209fef02ed))
     (pin "2" (uuid f0d3ebde-8ccd-4516-9fce-276661d4817e))
     (instances
+      (project "Loom23_detailed"
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/a7107cd9-89dc-4f07-9e0b-2ae547c51352"
+          (reference "R4") (unit 1)
+        )
+      )
       (project "relaybox_indicator_leds"
         (path "/e4157ee5-7fca-4f01-ba05-914dbd2da267"
           (reference "R4") (unit 1)
@@ -1554,6 +1680,11 @@
     )
     (pin "1" (uuid 0199fe5a-4bfd-4c9a-ba31-f246144d5ad5))
     (instances
+      (project "Loom23_detailed"
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/a7107cd9-89dc-4f07-9e0b-2ae547c51352"
+          (reference "TP11") (unit 1)
+        )
+      )
       (project "relaybox_indicator_leds"
         (path "/e4157ee5-7fca-4f01-ba05-914dbd2da267"
           (reference "TP11") (unit 1)
@@ -1580,6 +1711,11 @@
     (pin "1" (uuid ac61c090-5996-4cde-b71d-64b513506e49))
     (pin "2" (uuid 48638306-ee83-4499-8226-90b66e8b7572))
     (instances
+      (project "Loom23_detailed"
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/a7107cd9-89dc-4f07-9e0b-2ae547c51352"
+          (reference "R2") (unit 1)
+        )
+      )
       (project "relaybox_indicator_leds"
         (path "/e4157ee5-7fca-4f01-ba05-914dbd2da267"
           (reference "R2") (unit 1)
@@ -1606,6 +1742,11 @@
     (pin "1" (uuid 30bad388-e6d3-47d1-bdee-eea870dce2e8))
     (pin "2" (uuid 694af3be-a170-43b8-a174-308a236359e0))
     (instances
+      (project "Loom23_detailed"
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/a7107cd9-89dc-4f07-9e0b-2ae547c51352"
+          (reference "R13") (unit 1)
+        )
+      )
       (project "relaybox_indicator_leds"
         (path "/e4157ee5-7fca-4f01-ba05-914dbd2da267"
           (reference "R13") (unit 1)
@@ -1632,6 +1773,11 @@
     (pin "1" (uuid a95036af-ab67-48e2-b20a-d0cfdc68913a))
     (pin "2" (uuid 1f9970c3-2231-4e05-b01a-29e9a48953d1))
     (instances
+      (project "Loom23_detailed"
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/a7107cd9-89dc-4f07-9e0b-2ae547c51352"
+          (reference "R14") (unit 1)
+        )
+      )
       (project "relaybox_indicator_leds"
         (path "/e4157ee5-7fca-4f01-ba05-914dbd2da267"
           (reference "R14") (unit 1)
@@ -1658,6 +1804,11 @@
     (pin "1" (uuid bb773414-00d8-41db-b202-6d12fcbfbd11))
     (pin "2" (uuid d5983162-08df-40e8-bcbf-5b22c2045815))
     (instances
+      (project "Loom23_detailed"
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/a7107cd9-89dc-4f07-9e0b-2ae547c51352"
+          (reference "R10") (unit 1)
+        )
+      )
       (project "relaybox_indicator_leds"
         (path "/e4157ee5-7fca-4f01-ba05-914dbd2da267"
           (reference "R10") (unit 1)
@@ -1684,6 +1835,11 @@
     (pin "1" (uuid e7161da3-9a22-4fc2-b41d-9bfc8ec89159))
     (pin "2" (uuid 21bf47f2-3cf3-49a2-a4e7-23405ba8dff0))
     (instances
+      (project "Loom23_detailed"
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/a7107cd9-89dc-4f07-9e0b-2ae547c51352"
+          (reference "R7") (unit 1)
+        )
+      )
       (project "relaybox_indicator_leds"
         (path "/e4157ee5-7fca-4f01-ba05-914dbd2da267"
           (reference "R7") (unit 1)
@@ -1709,6 +1865,11 @@
     )
     (pin "1" (uuid 1876a712-208f-42aa-90b0-959269841a59))
     (instances
+      (project "Loom23_detailed"
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/a7107cd9-89dc-4f07-9e0b-2ae547c51352"
+          (reference "TP5") (unit 1)
+        )
+      )
       (project "relaybox_indicator_leds"
         (path "/e4157ee5-7fca-4f01-ba05-914dbd2da267"
           (reference "TP5") (unit 1)
@@ -1735,6 +1896,11 @@
     (pin "1" (uuid f88cbbe6-475d-4ba8-b93d-0e6d54cfe487))
     (pin "2" (uuid eb0d011a-fb78-4e00-8855-f45f4ad9d2ad))
     (instances
+      (project "Loom23_detailed"
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/a7107cd9-89dc-4f07-9e0b-2ae547c51352"
+          (reference "R8") (unit 1)
+        )
+      )
       (project "relaybox_indicator_leds"
         (path "/e4157ee5-7fca-4f01-ba05-914dbd2da267"
           (reference "R8") (unit 1)
@@ -1760,6 +1926,11 @@
     )
     (pin "1" (uuid 671fd85f-7239-4570-8440-9350e31e61ec))
     (instances
+      (project "Loom23_detailed"
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/a7107cd9-89dc-4f07-9e0b-2ae547c51352"
+          (reference "TP9") (unit 1)
+        )
+      )
       (project "relaybox_indicator_leds"
         (path "/e4157ee5-7fca-4f01-ba05-914dbd2da267"
           (reference "TP9") (unit 1)
@@ -1790,6 +1961,11 @@
     (pin "5" (uuid 05995ed3-26a2-44d7-b2ce-31fac4be8baf))
     (pin "6" (uuid 458a7c78-6bfb-4aeb-ad70-da547cc13409))
     (instances
+      (project "Loom23_detailed"
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/a7107cd9-89dc-4f07-9e0b-2ae547c51352"
+          (reference "SW1") (unit 1)
+        )
+      )
       (project "relaybox_indicator_leds"
         (path "/e4157ee5-7fca-4f01-ba05-914dbd2da267"
           (reference "SW1") (unit 1)
@@ -1820,6 +1996,11 @@
     (pin "5" (uuid 05995ed3-26a2-44d7-b2ce-31fac4be8bb0))
     (pin "6" (uuid 458a7c78-6bfb-4aeb-ad70-da547cc1340a))
     (instances
+      (project "Loom23_detailed"
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/a7107cd9-89dc-4f07-9e0b-2ae547c51352"
+          (reference "SW2") (unit 1)
+        )
+      )
       (project "relaybox_indicator_leds"
         (path "/e4157ee5-7fca-4f01-ba05-914dbd2da267"
           (reference "SW2") (unit 1)
@@ -1850,6 +2031,11 @@
     (pin "5" (uuid 67334cd5-6788-42bd-b076-77b2c3856344))
     (pin "6" (uuid e97a7046-4bca-499e-bb49-4e193a3387fd))
     (instances
+      (project "Loom23_detailed"
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/a7107cd9-89dc-4f07-9e0b-2ae547c51352"
+          (reference "SW3") (unit 2)
+        )
+      )
       (project "relaybox_indicator_leds"
         (path "/e4157ee5-7fca-4f01-ba05-914dbd2da267"
           (reference "SW3") (unit 2)
@@ -1875,6 +2061,11 @@
     )
     (pin "1" (uuid edcfb4d0-b7fa-44d2-8281-e4e43a98cbfa))
     (instances
+      (project "Loom23_detailed"
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/a7107cd9-89dc-4f07-9e0b-2ae547c51352"
+          (reference "TP10") (unit 1)
+        )
+      )
       (project "relaybox_indicator_leds"
         (path "/e4157ee5-7fca-4f01-ba05-914dbd2da267"
           (reference "TP10") (unit 1)
@@ -1905,6 +2096,11 @@
     (pin "5" (uuid fd97efca-672c-4d90-97af-b02f43fbfd50))
     (pin "6" (uuid e793197c-f90e-48a3-bbe9-d208eba841b7))
     (instances
+      (project "Loom23_detailed"
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/a7107cd9-89dc-4f07-9e0b-2ae547c51352"
+          (reference "SW2") (unit 2)
+        )
+      )
       (project "relaybox_indicator_leds"
         (path "/e4157ee5-7fca-4f01-ba05-914dbd2da267"
           (reference "SW2") (unit 2)
@@ -1931,6 +2127,11 @@
     (pin "1" (uuid 98d0bf44-ddd4-4231-b687-92142acf30a5))
     (pin "2" (uuid 22dac85c-a857-49a1-8506-a3c5daea6c40))
     (instances
+      (project "Loom23_detailed"
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/a7107cd9-89dc-4f07-9e0b-2ae547c51352"
+          (reference "D1") (unit 1)
+        )
+      )
       (project "relaybox_indicator_leds"
         (path "/e4157ee5-7fca-4f01-ba05-914dbd2da267"
           (reference "D1") (unit 1)
@@ -1956,6 +2157,11 @@
     )
     (pin "1" (uuid 846eeb4f-6a86-4f01-9a70-9aaa49275663))
     (instances
+      (project "Loom23_detailed"
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/a7107cd9-89dc-4f07-9e0b-2ae547c51352"
+          (reference "TP7") (unit 1)
+        )
+      )
       (project "relaybox_indicator_leds"
         (path "/e4157ee5-7fca-4f01-ba05-914dbd2da267"
           (reference "TP7") (unit 1)
@@ -1986,6 +2192,11 @@
     (pin "5" (uuid 45cb02eb-4f26-4f1b-ab01-14ecd0a57a7f))
     (pin "6" (uuid 38a4c760-8079-4038-aedc-e8824a4087af))
     (instances
+      (project "Loom23_detailed"
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/a7107cd9-89dc-4f07-9e0b-2ae547c51352"
+          (reference "SW3") (unit 1)
+        )
+      )
       (project "relaybox_indicator_leds"
         (path "/e4157ee5-7fca-4f01-ba05-914dbd2da267"
           (reference "SW3") (unit 1)
@@ -2018,6 +2229,11 @@
     (pin "1" (uuid b3a01d5c-1651-4fe3-b888-c969a7f4f799))
     (pin "2" (uuid 73e79af5-2cee-4407-803b-29578fea848f))
     (instances
+      (project "Loom23_detailed"
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/a7107cd9-89dc-4f07-9e0b-2ae547c51352"
+          (reference "D5") (unit 1)
+        )
+      )
       (project "relaybox_indicator_leds"
         (path "/e4157ee5-7fca-4f01-ba05-914dbd2da267"
           (reference "D5") (unit 1)
@@ -2044,6 +2260,11 @@
     (pin "1" (uuid ccb88eb4-8fcb-4ec2-a02f-c0cb5603eecf))
     (pin "2" (uuid b8c67163-3b89-400c-99b8-f98cfaf8081d))
     (instances
+      (project "Loom23_detailed"
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/a7107cd9-89dc-4f07-9e0b-2ae547c51352"
+          (reference "D13") (unit 1)
+        )
+      )
       (project "relaybox_indicator_leds"
         (path "/e4157ee5-7fca-4f01-ba05-914dbd2da267"
           (reference "D13") (unit 1)
@@ -2091,6 +2312,11 @@
     (pin "7" (uuid 6861d9d3-6d8e-4497-be0d-8e8c862dd8be))
     (pin "8" (uuid 2bef8546-2453-4d96-b9bb-4b493813fa48))
     (instances
+      (project "Loom23_detailed"
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/a7107cd9-89dc-4f07-9e0b-2ae547c51352"
+          (reference "J1") (unit 1)
+        )
+      )
       (project "relaybox_indicator_leds"
         (path "/e4157ee5-7fca-4f01-ba05-914dbd2da267"
           (reference "J1") (unit 1)
@@ -2116,6 +2342,11 @@
     )
     (pin "1" (uuid 7fe4baee-9df7-4b52-a353-e1331eb5e735))
     (instances
+      (project "Loom23_detailed"
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/a7107cd9-89dc-4f07-9e0b-2ae547c51352"
+          (reference "TP3") (unit 1)
+        )
+      )
       (project "relaybox_indicator_leds"
         (path "/e4157ee5-7fca-4f01-ba05-914dbd2da267"
           (reference "TP3") (unit 1)
@@ -2142,6 +2373,11 @@
     (pin "1" (uuid aef18461-6a2e-406d-b7fc-cb0a35db1328))
     (pin "2" (uuid d3be2a09-5b7d-49f0-b896-f2f9821643fd))
     (instances
+      (project "Loom23_detailed"
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/a7107cd9-89dc-4f07-9e0b-2ae547c51352"
+          (reference "D9") (unit 1)
+        )
+      )
       (project "relaybox_indicator_leds"
         (path "/e4157ee5-7fca-4f01-ba05-914dbd2da267"
           (reference "D9") (unit 1)
@@ -2172,6 +2408,11 @@
     (pin "5" (uuid 3cd9d5ed-4525-41a4-a391-8b48993be508))
     (pin "6" (uuid 26969ca9-834f-40de-9c78-73338ca7ac2b))
     (instances
+      (project "Loom23_detailed"
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/a7107cd9-89dc-4f07-9e0b-2ae547c51352"
+          (reference "SW5") (unit 2)
+        )
+      )
       (project "relaybox_indicator_leds"
         (path "/e4157ee5-7fca-4f01-ba05-914dbd2da267"
           (reference "SW5") (unit 2)
@@ -2197,6 +2438,11 @@
     )
     (pin "1" (uuid 5118aeea-447d-41c8-b7d2-8c5916aaa9c1))
     (instances
+      (project "Loom23_detailed"
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/a7107cd9-89dc-4f07-9e0b-2ae547c51352"
+          (reference "TP12") (unit 1)
+        )
+      )
       (project "relaybox_indicator_leds"
         (path "/e4157ee5-7fca-4f01-ba05-914dbd2da267"
           (reference "TP12") (unit 1)
@@ -2222,6 +2468,11 @@
     )
     (pin "1" (uuid 510b7044-2a8a-491f-8e39-83dce0be21a3))
     (instances
+      (project "Loom23_detailed"
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/a7107cd9-89dc-4f07-9e0b-2ae547c51352"
+          (reference "TP14") (unit 1)
+        )
+      )
       (project "relaybox_indicator_leds"
         (path "/e4157ee5-7fca-4f01-ba05-914dbd2da267"
           (reference "TP14") (unit 1)
@@ -2248,6 +2499,11 @@
     (pin "1" (uuid 082b6993-47a6-4e6d-aa26-70e15d3ee56f))
     (pin "2" (uuid 339171f3-acd2-408a-9dd2-e693e9423039))
     (instances
+      (project "Loom23_detailed"
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/a7107cd9-89dc-4f07-9e0b-2ae547c51352"
+          (reference "D14") (unit 1)
+        )
+      )
       (project "relaybox_indicator_leds"
         (path "/e4157ee5-7fca-4f01-ba05-914dbd2da267"
           (reference "D14") (unit 1)
@@ -2278,6 +2534,11 @@
     (pin "5" (uuid b9149f6e-1d16-46a0-8408-78ddb81b921f))
     (pin "6" (uuid 96b2a057-f455-49f0-9d89-4f2f8a5e6f0f))
     (instances
+      (project "Loom23_detailed"
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/a7107cd9-89dc-4f07-9e0b-2ae547c51352"
+          (reference "SW6") (unit 2)
+        )
+      )
       (project "relaybox_indicator_leds"
         (path "/e4157ee5-7fca-4f01-ba05-914dbd2da267"
           (reference "SW6") (unit 2)
@@ -2325,6 +2586,11 @@
     (pin "7" (uuid a3d330ed-c679-4522-bc0b-e56fbee7e56c))
     (pin "8" (uuid bc6d008e-5a50-45c5-88ec-78c8e077f8ca))
     (instances
+      (project "Loom23_detailed"
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/a7107cd9-89dc-4f07-9e0b-2ae547c51352"
+          (reference "J2") (unit 1)
+        )
+      )
       (project "relaybox_indicator_leds"
         (path "/e4157ee5-7fca-4f01-ba05-914dbd2da267"
           (reference "J2") (unit 1)
@@ -2351,6 +2617,11 @@
     (pin "1" (uuid 80d74f0f-0b8b-4e17-856c-224505fc4a7c))
     (pin "2" (uuid 1d4b1948-e9e4-4f18-86a7-d9defd70ef74))
     (instances
+      (project "Loom23_detailed"
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/a7107cd9-89dc-4f07-9e0b-2ae547c51352"
+          (reference "R9") (unit 1)
+        )
+      )
       (project "relaybox_indicator_leds"
         (path "/e4157ee5-7fca-4f01-ba05-914dbd2da267"
           (reference "R9") (unit 1)
@@ -2381,6 +2652,11 @@
     (pin "5" (uuid 05995ed3-26a2-44d7-b2ce-31fac4be8bb2))
     (pin "6" (uuid 458a7c78-6bfb-4aeb-ad70-da547cc1340c))
     (instances
+      (project "Loom23_detailed"
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/a7107cd9-89dc-4f07-9e0b-2ae547c51352"
+          (reference "SW6") (unit 1)
+        )
+      )
       (project "relaybox_indicator_leds"
         (path "/e4157ee5-7fca-4f01-ba05-914dbd2da267"
           (reference "SW6") (unit 1)
@@ -2411,6 +2687,11 @@
     (pin "5" (uuid 69bbf9c4-4132-4805-9470-9336258ce715))
     (pin "6" (uuid d13ffcb8-65c7-40d9-a80b-b37c644a2ec4))
     (instances
+      (project "Loom23_detailed"
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/a7107cd9-89dc-4f07-9e0b-2ae547c51352"
+          (reference "SW4") (unit 2)
+        )
+      )
       (project "relaybox_indicator_leds"
         (path "/e4157ee5-7fca-4f01-ba05-914dbd2da267"
           (reference "SW4") (unit 2)
@@ -2441,6 +2722,11 @@
     (pin "5" (uuid 05995ed3-26a2-44d7-b2ce-31fac4be8bb3))
     (pin "6" (uuid 458a7c78-6bfb-4aeb-ad70-da547cc1340d))
     (instances
+      (project "Loom23_detailed"
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/a7107cd9-89dc-4f07-9e0b-2ae547c51352"
+          (reference "SW7") (unit 1)
+        )
+      )
       (project "relaybox_indicator_leds"
         (path "/e4157ee5-7fca-4f01-ba05-914dbd2da267"
           (reference "SW7") (unit 1)
@@ -2466,6 +2752,11 @@
     )
     (pin "1" (uuid 06d1934d-5ac9-4e18-9e17-3a786ba46e6d))
     (instances
+      (project "Loom23_detailed"
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/a7107cd9-89dc-4f07-9e0b-2ae547c51352"
+          (reference "TP13") (unit 1)
+        )
+      )
       (project "relaybox_indicator_leds"
         (path "/e4157ee5-7fca-4f01-ba05-914dbd2da267"
           (reference "TP13") (unit 1)
@@ -2492,15 +2783,16 @@
     (pin "1" (uuid 7fce2a27-e86b-4f1a-93a5-2f29a35830ce))
     (pin "2" (uuid ae1dd002-d397-44ba-9a39-384a57683386))
     (instances
+      (project "Loom23_detailed"
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/a7107cd9-89dc-4f07-9e0b-2ae547c51352"
+          (reference "R12") (unit 1)
+        )
+      )
       (project "relaybox_indicator_leds"
         (path "/e4157ee5-7fca-4f01-ba05-914dbd2da267"
           (reference "R12") (unit 1)
         )
       )
     )
-  )
-
-  (sheet_instances
-    (path "/" (page "1"))
   )
 )
