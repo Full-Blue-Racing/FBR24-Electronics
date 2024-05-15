@@ -904,6 +904,9 @@
         (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/a7107cd9-89dc-4f07-9e0b-2ae547c51352"
           (reference "SW5") (unit 1)
         )
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/0f9edc37-f2ac-4d00-819c-2aa1b4d05a29"
+          (reference "SW12") (unit 1)
+        )
       )
       (project "relaybox_indicator_leds"
         (path "/e4157ee5-7fca-4f01-ba05-914dbd2da267"
@@ -933,6 +936,9 @@
       (project "Loom23_detailed"
         (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/a7107cd9-89dc-4f07-9e0b-2ae547c51352"
           (reference "TP4") (unit 1)
+        )
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/0f9edc37-f2ac-4d00-819c-2aa1b4d05a29"
+          (reference "TP24") (unit 1)
         )
       )
       (project "relaybox_indicator_leds"
@@ -964,6 +970,9 @@
         (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/a7107cd9-89dc-4f07-9e0b-2ae547c51352"
           (reference "TP6") (unit 1)
         )
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/0f9edc37-f2ac-4d00-819c-2aa1b4d05a29"
+          (reference "TP28") (unit 1)
+        )
       )
       (project "relaybox_indicator_leds"
         (path "/e4157ee5-7fca-4f01-ba05-914dbd2da267"
@@ -993,6 +1002,9 @@
       (project "Loom23_detailed"
         (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/a7107cd9-89dc-4f07-9e0b-2ae547c51352"
           (reference "TP2") (unit 1)
+        )
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/0f9edc37-f2ac-4d00-819c-2aa1b4d05a29"
+          (reference "TP20") (unit 1)
         )
       )
       (project "relaybox_indicator_leds"
@@ -1024,6 +1036,9 @@
       (project "Loom23_detailed"
         (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/a7107cd9-89dc-4f07-9e0b-2ae547c51352"
           (reference "D8") (unit 1)
+        )
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/0f9edc37-f2ac-4d00-819c-2aa1b4d05a29"
+          (reference "D16") (unit 1)
         )
       )
       (project "relaybox_indicator_leds"
@@ -1060,6 +1075,9 @@
         (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/a7107cd9-89dc-4f07-9e0b-2ae547c51352"
           (reference "SW4") (unit 1)
         )
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/0f9edc37-f2ac-4d00-819c-2aa1b4d05a29"
+          (reference "SW11") (unit 1)
+        )
       )
       (project "relaybox_indicator_leds"
         (path "/e4157ee5-7fca-4f01-ba05-914dbd2da267"
@@ -1090,6 +1108,9 @@
       (project "Loom23_detailed"
         (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/a7107cd9-89dc-4f07-9e0b-2ae547c51352"
           (reference "R6") (unit 1)
+        )
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/0f9edc37-f2ac-4d00-819c-2aa1b4d05a29"
+          (reference "R32") (unit 1)
         )
       )
       (project "relaybox_indicator_leds"
@@ -1126,6 +1147,9 @@
         (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/a7107cd9-89dc-4f07-9e0b-2ae547c51352"
           (reference "SW1") (unit 2)
         )
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/0f9edc37-f2ac-4d00-819c-2aa1b4d05a29"
+          (reference "SW8") (unit 2)
+        )
       )
       (project "relaybox_indicator_leds"
         (path "/e4157ee5-7fca-4f01-ba05-914dbd2da267"
@@ -1157,6 +1181,9 @@
         (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/a7107cd9-89dc-4f07-9e0b-2ae547c51352"
           (reference "D11") (unit 1)
         )
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/0f9edc37-f2ac-4d00-819c-2aa1b4d05a29"
+          (reference "D22") (unit 1)
+        )
       )
       (project "relaybox_indicator_leds"
         (path "/e4157ee5-7fca-4f01-ba05-914dbd2da267"
@@ -1186,6 +1213,9 @@
       (project "Loom23_detailed"
         (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/a7107cd9-89dc-4f07-9e0b-2ae547c51352"
           (reference "TP1") (unit 1)
+        )
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/0f9edc37-f2ac-4d00-819c-2aa1b4d05a29"
+          (reference "TP18") (unit 1)
         )
       )
       (project "relaybox_indicator_leds"
@@ -1218,6 +1248,9 @@
         (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/a7107cd9-89dc-4f07-9e0b-2ae547c51352"
           (reference "D7") (unit 1)
         )
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/0f9edc37-f2ac-4d00-819c-2aa1b4d05a29"
+          (reference "D27") (unit 1)
+        )
       )
       (project "relaybox_indicator_leds"
         (path "/e4157ee5-7fca-4f01-ba05-914dbd2da267"
@@ -1248,6 +1281,9 @@
       (project "Loom23_detailed"
         (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/a7107cd9-89dc-4f07-9e0b-2ae547c51352"
           (reference "R1") (unit 1)
+        )
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/0f9edc37-f2ac-4d00-819c-2aa1b4d05a29"
+          (reference "R22") (unit 1)
         )
       )
       (project "relaybox_indicator_leds"
@@ -1280,6 +1316,9 @@
         (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/a7107cd9-89dc-4f07-9e0b-2ae547c51352"
           (reference "D6") (unit 1)
         )
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/0f9edc37-f2ac-4d00-819c-2aa1b4d05a29"
+          (reference "D25") (unit 1)
+        )
       )
       (project "relaybox_indicator_leds"
         (path "/e4157ee5-7fca-4f01-ba05-914dbd2da267"
@@ -1311,6 +1350,9 @@
         (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/a7107cd9-89dc-4f07-9e0b-2ae547c51352"
           (reference "D2") (unit 1)
         )
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/0f9edc37-f2ac-4d00-819c-2aa1b4d05a29"
+          (reference "D17") (unit 1)
+        )
       )
       (project "relaybox_indicator_leds"
         (path "/e4157ee5-7fca-4f01-ba05-914dbd2da267"
@@ -1341,6 +1383,9 @@
       (project "Loom23_detailed"
         (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/a7107cd9-89dc-4f07-9e0b-2ae547c51352"
           (reference "D4") (unit 1)
+        )
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/0f9edc37-f2ac-4d00-819c-2aa1b4d05a29"
+          (reference "D21") (unit 1)
         )
       )
       (project "relaybox_indicator_leds"
@@ -1377,6 +1422,9 @@
         (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/a7107cd9-89dc-4f07-9e0b-2ae547c51352"
           (reference "SW7") (unit 2)
         )
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/0f9edc37-f2ac-4d00-819c-2aa1b4d05a29"
+          (reference "SW14") (unit 2)
+        )
       )
       (project "relaybox_indicator_leds"
         (path "/e4157ee5-7fca-4f01-ba05-914dbd2da267"
@@ -1407,6 +1455,9 @@
       (project "Loom23_detailed"
         (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/a7107cd9-89dc-4f07-9e0b-2ae547c51352"
           (reference "D3") (unit 1)
+        )
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/0f9edc37-f2ac-4d00-819c-2aa1b4d05a29"
+          (reference "D19") (unit 1)
         )
       )
       (project "relaybox_indicator_leds"
@@ -1439,6 +1490,9 @@
         (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/a7107cd9-89dc-4f07-9e0b-2ae547c51352"
           (reference "R3") (unit 1)
         )
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/0f9edc37-f2ac-4d00-819c-2aa1b4d05a29"
+          (reference "R26") (unit 1)
+        )
       )
       (project "relaybox_indicator_leds"
         (path "/e4157ee5-7fca-4f01-ba05-914dbd2da267"
@@ -1470,6 +1524,9 @@
         (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/a7107cd9-89dc-4f07-9e0b-2ae547c51352"
           (reference "D10") (unit 1)
         )
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/0f9edc37-f2ac-4d00-819c-2aa1b4d05a29"
+          (reference "D20") (unit 1)
+        )
       )
       (project "relaybox_indicator_leds"
         (path "/e4157ee5-7fca-4f01-ba05-914dbd2da267"
@@ -1499,6 +1556,9 @@
       (project "Loom23_detailed"
         (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/a7107cd9-89dc-4f07-9e0b-2ae547c51352"
           (reference "TP15") (unit 1)
+        )
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/0f9edc37-f2ac-4d00-819c-2aa1b4d05a29"
+          (reference "TP16") (unit 1)
         )
       )
       (project "relaybox_indicator_leds"
@@ -1531,6 +1591,9 @@
         (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/a7107cd9-89dc-4f07-9e0b-2ae547c51352"
           (reference "R11") (unit 1)
         )
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/0f9edc37-f2ac-4d00-819c-2aa1b4d05a29"
+          (reference "R29") (unit 1)
+        )
       )
       (project "relaybox_indicator_leds"
         (path "/e4157ee5-7fca-4f01-ba05-914dbd2da267"
@@ -1560,6 +1623,9 @@
       (project "Loom23_detailed"
         (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/a7107cd9-89dc-4f07-9e0b-2ae547c51352"
           (reference "TP8") (unit 1)
+        )
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/0f9edc37-f2ac-4d00-819c-2aa1b4d05a29"
+          (reference "TP17") (unit 1)
         )
       )
       (project "relaybox_indicator_leds"
@@ -1592,6 +1658,9 @@
         (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/a7107cd9-89dc-4f07-9e0b-2ae547c51352"
           (reference "R5") (unit 1)
         )
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/0f9edc37-f2ac-4d00-819c-2aa1b4d05a29"
+          (reference "R30") (unit 1)
+        )
       )
       (project "relaybox_indicator_leds"
         (path "/e4157ee5-7fca-4f01-ba05-914dbd2da267"
@@ -1622,6 +1691,9 @@
       (project "Loom23_detailed"
         (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/a7107cd9-89dc-4f07-9e0b-2ae547c51352"
           (reference "D12") (unit 1)
+        )
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/0f9edc37-f2ac-4d00-819c-2aa1b4d05a29"
+          (reference "D24") (unit 1)
         )
       )
       (project "relaybox_indicator_leds"
@@ -1654,6 +1726,9 @@
         (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/a7107cd9-89dc-4f07-9e0b-2ae547c51352"
           (reference "R4") (unit 1)
         )
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/0f9edc37-f2ac-4d00-819c-2aa1b4d05a29"
+          (reference "R28") (unit 1)
+        )
       )
       (project "relaybox_indicator_leds"
         (path "/e4157ee5-7fca-4f01-ba05-914dbd2da267"
@@ -1683,6 +1758,9 @@
       (project "Loom23_detailed"
         (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/a7107cd9-89dc-4f07-9e0b-2ae547c51352"
           (reference "TP11") (unit 1)
+        )
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/0f9edc37-f2ac-4d00-819c-2aa1b4d05a29"
+          (reference "TP23") (unit 1)
         )
       )
       (project "relaybox_indicator_leds"
@@ -1715,6 +1793,9 @@
         (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/a7107cd9-89dc-4f07-9e0b-2ae547c51352"
           (reference "R2") (unit 1)
         )
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/0f9edc37-f2ac-4d00-819c-2aa1b4d05a29"
+          (reference "R24") (unit 1)
+        )
       )
       (project "relaybox_indicator_leds"
         (path "/e4157ee5-7fca-4f01-ba05-914dbd2da267"
@@ -1745,6 +1826,9 @@
       (project "Loom23_detailed"
         (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/a7107cd9-89dc-4f07-9e0b-2ae547c51352"
           (reference "R13") (unit 1)
+        )
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/0f9edc37-f2ac-4d00-819c-2aa1b4d05a29"
+          (reference "R33") (unit 1)
         )
       )
       (project "relaybox_indicator_leds"
@@ -1777,6 +1861,9 @@
         (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/a7107cd9-89dc-4f07-9e0b-2ae547c51352"
           (reference "R14") (unit 1)
         )
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/0f9edc37-f2ac-4d00-819c-2aa1b4d05a29"
+          (reference "R35") (unit 1)
+        )
       )
       (project "relaybox_indicator_leds"
         (path "/e4157ee5-7fca-4f01-ba05-914dbd2da267"
@@ -1807,6 +1894,9 @@
       (project "Loom23_detailed"
         (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/a7107cd9-89dc-4f07-9e0b-2ae547c51352"
           (reference "R10") (unit 1)
+        )
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/0f9edc37-f2ac-4d00-819c-2aa1b4d05a29"
+          (reference "R27") (unit 1)
         )
       )
       (project "relaybox_indicator_leds"
@@ -1839,6 +1929,9 @@
         (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/a7107cd9-89dc-4f07-9e0b-2ae547c51352"
           (reference "R7") (unit 1)
         )
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/0f9edc37-f2ac-4d00-819c-2aa1b4d05a29"
+          (reference "R34") (unit 1)
+        )
       )
       (project "relaybox_indicator_leds"
         (path "/e4157ee5-7fca-4f01-ba05-914dbd2da267"
@@ -1868,6 +1961,9 @@
       (project "Loom23_detailed"
         (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/a7107cd9-89dc-4f07-9e0b-2ae547c51352"
           (reference "TP5") (unit 1)
+        )
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/0f9edc37-f2ac-4d00-819c-2aa1b4d05a29"
+          (reference "TP26") (unit 1)
         )
       )
       (project "relaybox_indicator_leds"
@@ -1900,6 +1996,9 @@
         (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/a7107cd9-89dc-4f07-9e0b-2ae547c51352"
           (reference "R8") (unit 1)
         )
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/0f9edc37-f2ac-4d00-819c-2aa1b4d05a29"
+          (reference "R23") (unit 1)
+        )
       )
       (project "relaybox_indicator_leds"
         (path "/e4157ee5-7fca-4f01-ba05-914dbd2da267"
@@ -1929,6 +2028,9 @@
       (project "Loom23_detailed"
         (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/a7107cd9-89dc-4f07-9e0b-2ae547c51352"
           (reference "TP9") (unit 1)
+        )
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/0f9edc37-f2ac-4d00-819c-2aa1b4d05a29"
+          (reference "TP19") (unit 1)
         )
       )
       (project "relaybox_indicator_leds"
@@ -1965,6 +2067,9 @@
         (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/a7107cd9-89dc-4f07-9e0b-2ae547c51352"
           (reference "SW1") (unit 1)
         )
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/0f9edc37-f2ac-4d00-819c-2aa1b4d05a29"
+          (reference "SW8") (unit 1)
+        )
       )
       (project "relaybox_indicator_leds"
         (path "/e4157ee5-7fca-4f01-ba05-914dbd2da267"
@@ -1999,6 +2104,9 @@
       (project "Loom23_detailed"
         (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/a7107cd9-89dc-4f07-9e0b-2ae547c51352"
           (reference "SW2") (unit 1)
+        )
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/0f9edc37-f2ac-4d00-819c-2aa1b4d05a29"
+          (reference "SW9") (unit 1)
         )
       )
       (project "relaybox_indicator_leds"
@@ -2035,6 +2143,9 @@
         (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/a7107cd9-89dc-4f07-9e0b-2ae547c51352"
           (reference "SW3") (unit 2)
         )
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/0f9edc37-f2ac-4d00-819c-2aa1b4d05a29"
+          (reference "SW10") (unit 2)
+        )
       )
       (project "relaybox_indicator_leds"
         (path "/e4157ee5-7fca-4f01-ba05-914dbd2da267"
@@ -2064,6 +2175,9 @@
       (project "Loom23_detailed"
         (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/a7107cd9-89dc-4f07-9e0b-2ae547c51352"
           (reference "TP10") (unit 1)
+        )
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/0f9edc37-f2ac-4d00-819c-2aa1b4d05a29"
+          (reference "TP21") (unit 1)
         )
       )
       (project "relaybox_indicator_leds"
@@ -2100,6 +2214,9 @@
         (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/a7107cd9-89dc-4f07-9e0b-2ae547c51352"
           (reference "SW2") (unit 2)
         )
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/0f9edc37-f2ac-4d00-819c-2aa1b4d05a29"
+          (reference "SW9") (unit 2)
+        )
       )
       (project "relaybox_indicator_leds"
         (path "/e4157ee5-7fca-4f01-ba05-914dbd2da267"
@@ -2131,6 +2248,9 @@
         (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/a7107cd9-89dc-4f07-9e0b-2ae547c51352"
           (reference "D1") (unit 1)
         )
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/0f9edc37-f2ac-4d00-819c-2aa1b4d05a29"
+          (reference "D15") (unit 1)
+        )
       )
       (project "relaybox_indicator_leds"
         (path "/e4157ee5-7fca-4f01-ba05-914dbd2da267"
@@ -2160,6 +2280,9 @@
       (project "Loom23_detailed"
         (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/a7107cd9-89dc-4f07-9e0b-2ae547c51352"
           (reference "TP7") (unit 1)
+        )
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/0f9edc37-f2ac-4d00-819c-2aa1b4d05a29"
+          (reference "TP30") (unit 1)
         )
       )
       (project "relaybox_indicator_leds"
@@ -2195,6 +2318,9 @@
       (project "Loom23_detailed"
         (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/a7107cd9-89dc-4f07-9e0b-2ae547c51352"
           (reference "SW3") (unit 1)
+        )
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/0f9edc37-f2ac-4d00-819c-2aa1b4d05a29"
+          (reference "SW10") (unit 1)
         )
       )
       (project "relaybox_indicator_leds"
@@ -2233,6 +2359,9 @@
         (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/a7107cd9-89dc-4f07-9e0b-2ae547c51352"
           (reference "D5") (unit 1)
         )
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/0f9edc37-f2ac-4d00-819c-2aa1b4d05a29"
+          (reference "D23") (unit 1)
+        )
       )
       (project "relaybox_indicator_leds"
         (path "/e4157ee5-7fca-4f01-ba05-914dbd2da267"
@@ -2263,6 +2392,9 @@
       (project "Loom23_detailed"
         (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/a7107cd9-89dc-4f07-9e0b-2ae547c51352"
           (reference "D13") (unit 1)
+        )
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/0f9edc37-f2ac-4d00-819c-2aa1b4d05a29"
+          (reference "D26") (unit 1)
         )
       )
       (project "relaybox_indicator_leds"
@@ -2316,6 +2448,9 @@
         (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/a7107cd9-89dc-4f07-9e0b-2ae547c51352"
           (reference "J1") (unit 1)
         )
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/0f9edc37-f2ac-4d00-819c-2aa1b4d05a29"
+          (reference "J14") (unit 1)
+        )
       )
       (project "relaybox_indicator_leds"
         (path "/e4157ee5-7fca-4f01-ba05-914dbd2da267"
@@ -2345,6 +2480,9 @@
       (project "Loom23_detailed"
         (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/a7107cd9-89dc-4f07-9e0b-2ae547c51352"
           (reference "TP3") (unit 1)
+        )
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/0f9edc37-f2ac-4d00-819c-2aa1b4d05a29"
+          (reference "TP22") (unit 1)
         )
       )
       (project "relaybox_indicator_leds"
@@ -2376,6 +2514,9 @@
       (project "Loom23_detailed"
         (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/a7107cd9-89dc-4f07-9e0b-2ae547c51352"
           (reference "D9") (unit 1)
+        )
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/0f9edc37-f2ac-4d00-819c-2aa1b4d05a29"
+          (reference "D18") (unit 1)
         )
       )
       (project "relaybox_indicator_leds"
@@ -2412,6 +2553,9 @@
         (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/a7107cd9-89dc-4f07-9e0b-2ae547c51352"
           (reference "SW5") (unit 2)
         )
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/0f9edc37-f2ac-4d00-819c-2aa1b4d05a29"
+          (reference "SW12") (unit 2)
+        )
       )
       (project "relaybox_indicator_leds"
         (path "/e4157ee5-7fca-4f01-ba05-914dbd2da267"
@@ -2441,6 +2585,9 @@
       (project "Loom23_detailed"
         (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/a7107cd9-89dc-4f07-9e0b-2ae547c51352"
           (reference "TP12") (unit 1)
+        )
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/0f9edc37-f2ac-4d00-819c-2aa1b4d05a29"
+          (reference "TP25") (unit 1)
         )
       )
       (project "relaybox_indicator_leds"
@@ -2472,6 +2619,9 @@
         (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/a7107cd9-89dc-4f07-9e0b-2ae547c51352"
           (reference "TP14") (unit 1)
         )
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/0f9edc37-f2ac-4d00-819c-2aa1b4d05a29"
+          (reference "TP29") (unit 1)
+        )
       )
       (project "relaybox_indicator_leds"
         (path "/e4157ee5-7fca-4f01-ba05-914dbd2da267"
@@ -2502,6 +2652,9 @@
       (project "Loom23_detailed"
         (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/a7107cd9-89dc-4f07-9e0b-2ae547c51352"
           (reference "D14") (unit 1)
+        )
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/0f9edc37-f2ac-4d00-819c-2aa1b4d05a29"
+          (reference "D28") (unit 1)
         )
       )
       (project "relaybox_indicator_leds"
@@ -2537,6 +2690,9 @@
       (project "Loom23_detailed"
         (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/a7107cd9-89dc-4f07-9e0b-2ae547c51352"
           (reference "SW6") (unit 2)
+        )
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/0f9edc37-f2ac-4d00-819c-2aa1b4d05a29"
+          (reference "SW13") (unit 2)
         )
       )
       (project "relaybox_indicator_leds"
@@ -2590,6 +2746,9 @@
         (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/a7107cd9-89dc-4f07-9e0b-2ae547c51352"
           (reference "J2") (unit 1)
         )
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/0f9edc37-f2ac-4d00-819c-2aa1b4d05a29"
+          (reference "J15") (unit 1)
+        )
       )
       (project "relaybox_indicator_leds"
         (path "/e4157ee5-7fca-4f01-ba05-914dbd2da267"
@@ -2620,6 +2779,9 @@
       (project "Loom23_detailed"
         (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/a7107cd9-89dc-4f07-9e0b-2ae547c51352"
           (reference "R9") (unit 1)
+        )
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/0f9edc37-f2ac-4d00-819c-2aa1b4d05a29"
+          (reference "R25") (unit 1)
         )
       )
       (project "relaybox_indicator_leds"
@@ -2656,6 +2818,9 @@
         (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/a7107cd9-89dc-4f07-9e0b-2ae547c51352"
           (reference "SW6") (unit 1)
         )
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/0f9edc37-f2ac-4d00-819c-2aa1b4d05a29"
+          (reference "SW13") (unit 1)
+        )
       )
       (project "relaybox_indicator_leds"
         (path "/e4157ee5-7fca-4f01-ba05-914dbd2da267"
@@ -2690,6 +2855,9 @@
       (project "Loom23_detailed"
         (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/a7107cd9-89dc-4f07-9e0b-2ae547c51352"
           (reference "SW4") (unit 2)
+        )
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/0f9edc37-f2ac-4d00-819c-2aa1b4d05a29"
+          (reference "SW11") (unit 2)
         )
       )
       (project "relaybox_indicator_leds"
@@ -2726,6 +2894,9 @@
         (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/a7107cd9-89dc-4f07-9e0b-2ae547c51352"
           (reference "SW7") (unit 1)
         )
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/0f9edc37-f2ac-4d00-819c-2aa1b4d05a29"
+          (reference "SW14") (unit 1)
+        )
       )
       (project "relaybox_indicator_leds"
         (path "/e4157ee5-7fca-4f01-ba05-914dbd2da267"
@@ -2755,6 +2926,9 @@
       (project "Loom23_detailed"
         (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/a7107cd9-89dc-4f07-9e0b-2ae547c51352"
           (reference "TP13") (unit 1)
+        )
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/0f9edc37-f2ac-4d00-819c-2aa1b4d05a29"
+          (reference "TP27") (unit 1)
         )
       )
       (project "relaybox_indicator_leds"
@@ -2786,6 +2960,9 @@
       (project "Loom23_detailed"
         (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/a7107cd9-89dc-4f07-9e0b-2ae547c51352"
           (reference "R12") (unit 1)
+        )
+        (path "/691c98c8-9b47-40a5-87b6-2865e3f6892d/0f9edc37-f2ac-4d00-819c-2aa1b4d05a29"
+          (reference "R31") (unit 1)
         )
       )
       (project "relaybox_indicator_leds"

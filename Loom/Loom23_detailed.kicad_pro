@@ -456,6 +456,10 @@
       "Lambda sensor"
     ],
     [
+      "0f9edc37-f2ac-4d00-819c-2aa1b4d05a29",
+      "Relaybox indicators (ECU)"
+    ],
+    [
       "31af8776-e20e-4678-af96-7d5469953b0e",
       "Dash Arduino and screen"
     ],
@@ -541,7 +545,7 @@
     ],
     [
       "a7107cd9-89dc-4f07-9e0b-2ae547c51352",
-      "Relaybox indicators"
+      "Relaybox indicators (relays)"
     ],
     [
       "1d27a9e1-a99a-46d7-b2ea-46112bae4d76",
