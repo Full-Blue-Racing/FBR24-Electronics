@@ -32,7 +32,7 @@
   (pad "1" thru_hole circle (at 0 0) (size 3 3) (drill 1.8) (layers "*.Cu" "*.Mask") (tstamp 39db77b4-b3db-4009-8572-42ab99cfca69))
   (pad "2" thru_hole circle (at 4.3 0) (size 3 3) (drill 1.8) (layers "*.Cu" "*.Mask") (tstamp 61e651ac-c116-4754-bad7-9cca74fdbd25))
   (pad "3" thru_hole circle (at 8.6 0) (size 3 3) (drill 1.8) (layers "*.Cu" "*.Mask") (tstamp c6c49913-0554-4f4d-9746-7d3ce6802121))
-  (model "${KIPRJMOD}/Amphenol/ATF13-3P-BM03J1939.stp"
+  (model "/Users/ohydon/Documents/Uni Files/IB/Full Blue Racing/FBR24-Electronics/Loom/Can Pcb/Footprints/AMPHENOLSINE_ATF133PBM03 2/ATF13-3P-BM03.stp"
     (offset (xyz 4.3 -19.67 11))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

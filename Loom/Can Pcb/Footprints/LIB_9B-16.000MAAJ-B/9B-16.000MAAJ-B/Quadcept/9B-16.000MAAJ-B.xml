@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--/242750/1071448/2.50/2/4/Crystal or Oscillator/-->
+<quadcept_library>
+  <setting unit="mil" />
+  <textstyle name="Default" height="47.244094488189" strokewidth="7.8740157480315" charwidth="47.244094488189" />
+  <textstyle name="Dimension" height="19.6850393700787" strokewidth="0" charwidth="19.6850393700787" />
+  <textstyle name="H127W0635TH00762" height="50" strokewidth="3" charwidth="25" />
+  <textstyle name="H15W15TH02" height="59.0551181102362" strokewidth="7.8740157480315" charwidth="59.0551181102362" />
+  <padstyle name="c115.5_h63" surface="False" plated="True" isvia="False" nopaste="True" nomask="True" complex="False" holesize="24.803149606299">
+    <padshape layer="TOP" shape="round" width="45.472440944881" height="45.472440944881" />
+    <padshape layer="TOP_SOLDER_MASK" shape="round" width="53.346456692913" height="53.346456692913" />
+    <padshape layer="INNER" shape="round" width="45.472440944881" height="45.472440944881" />
+    <padshape layer="BOTTOM" shape="round" width="45.472440944881" height="45.472440944881" />
+    <padshape layer="BOTTOM_SOLDER_MASK" shape="round" width="53.346456692913" height="53.346456692913" />
+  </padstyle>
+  <footprint name="9B16000MAAJB" originx="0" originy="0" pickpointx="0" pickpointy="0">
+    <pcbpin number="1" name="1" style="c115.5_h63" originx="0" originy="0" rotation="90" />
+    <pcbpin number="2" name="2" style="c115.5_h63" originx="192.12598425197" originy="0" rotation="90" />
+    <line layer="TOP_ASSEMBLY" originx="-130.31496062992" originy="-98.425196850392" endx="322.44094488189" endy="-98.425196850392" width="7.8740157480314" />
+    <line layer="TOP_ASSEMBLY" originx="322.44094488189" originy="-98.425196850392" endx="322.44094488189" endy="98.425196850392" width="7.8740157480314" />
+    <line layer="TOP_ASSEMBLY" originx="322.44094488189" originy="98.425196850392" endx="-130.31496062992" endy="98.425196850392" width="7.8740157480314" />
+    <line layer="TOP_ASSEMBLY" originx="-130.31496062992" originy="98.425196850392" endx="-130.31496062992" endy="-98.425196850392" width="7.8740157480314" />
+    <line layer="TOP_SILKSCREEN" originx="-130.31496062992" originy="98.425196850392" endx="322.44094488189" endy="98.425196850392" width="3.9370078740157" />
+    <line layer="TOP_SILKSCREEN" originx="322.44094488189" originy="98.425196850392" endx="322.44094488189" endy="-98.425196850392" width="3.9370078740157" />
+    <line layer="TOP_SILKSCREEN" originx="322.44094488189" originy="-98.425196850392" endx="-130.31496062992" endy="-98.425196850392" width="3.9370078740157" />
+    <line layer="TOP_SILKSCREEN" originx="-130.31496062992" originy="-98.425196850392" endx="-130.31496062992" endy="98.425196850392" width="3.9370078740157" />
+    <line layer="TOP_PLACE_BOUND" originx="-169.68503937008" originy="137.79527559055" endx="361.81102362204" endy="137.79527559055" width="3.9370078740157" />
+    <line layer="TOP_PLACE_BOUND" originx="361.81102362204" originy="137.79527559055" endx="361.81102362204" endy="-137.79527559055" width="3.9370078740157" />
+    <line layer="TOP_PLACE_BOUND" originx="361.81102362204" originy="-137.79527559055" endx="-169.68503937008" endy="-137.79527559055" width="3.9370078740157" />
+    <line layer="TOP_PLACE_BOUND" originx="-169.68503937008" originy="-137.79527559055" endx="-169.68503937008" endy="137.79527559055" width="3.9370078740157" />
+  </footprint>
+  <symbol name="9B-16.000MAAJ-B" originx="0" originy="0">
+    <line originx="120" originy="100" endx="120" endy="-100" width="0" />
+    <line originx="280" originy="100" endx="280" endy="-100" width="0" />
+    <line originx="160" originy="140" endx="160" endy="-140" width="0" />
+    <line originx="240" originy="-140" endx="160" endy="-140" width="0" />
+    <line originx="240" originy="-140" endx="240" endy="140" width="0" />
+    <line originx="160" originy="140" endx="240" endy="140" width="0" />
+    <line originx="280" originy="0" endx="300" endy="0" width="0" />
+    <line originx="120" originy="0" endx="100" endy="0" width="0" />
+    <sympin number="2" originx="100" originy="0" rotation="180" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="140" originy="10" style="Default" rotation="0" justify="left" flipped="False" hidden="True" data="X2" />
+      <text name="pindes" originx="60" originy="10" style="Default" rotation="0" justify="lowerright" flipped="False" hidden="False" data="2" />
+    </sympin>
+    <sympin number="2" originx="300" originy="0" rotation="0" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="260" originy="10" style="Default" rotation="0" justify="right" flipped="False" hidden="True" data="" />
+      <text name="pindes" originx="340" originy="10" style="Default" rotation="0" justify="lowerleft" flipped="False" hidden="False" data="" />
+    </sympin>
+  </symbol>
+  <component name="9B-16.000MAAJ-B" designatorprefix="Y" height="144.88188976378" footprint="9B16000MAAJB">
+    <comppin designator="1" sympin="1" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="X1" />
+    <comppin designator="2" sympin="2" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="X2" />
+    <attached_symbol gate="1" name="9B-16.000MAAJ-B" />
+    <pinmap designator="1" footprintpin="1" />
+    <pinmap designator="2" footprintpin="2" />
+    <text name="Datasheet" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="https://componentsearchengine.com/Datasheets/2/9B-16.000MAAJ-B.pdf" />
+    <text name="Description" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="Crystals 16.000MHz 30ppm -20 +70C 18pF" />
+    <text name="Mouser Part Number" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="717-9B-16.000MAAJ-B" />
+    <text name="Mouser Price/Stock" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="https://www.mouser.co.uk/ProductDetail/TXC-Corporation/9B-16.000MAAJ-B?qs=65dIHZNch5sIbXzJj8%2F8aw%3D%3D" />
+    <text name="Manufacturer_Name" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="TXC CORPORATION" />
+    <text name="Manufacturer_Part_Number" originx="350" originy="150" style="Default" rotation="0" justify="left" flipped="False" hidden="False" data="9B-16.000MAAJ-B" />
+  </component>
+</quadcept_library>

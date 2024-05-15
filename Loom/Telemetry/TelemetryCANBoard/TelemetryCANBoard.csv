@@ -1,0 +1,18 @@
+"Source:","/home/charlotte/Documents/FBR/FBR24-Electronics/Loom/Telemetry/TelemetryCANBoard/TelemetryCANBoard.kicad_sch"
+"Date:","Sun 12 Nov 2023 15:14:25 GMT"
+"Tool:","Eeschema 7.0.8"
+"Generator:","/usr/share/kicad/plugins/bom_csv_grouped_by_value.py"
+"Component Count:","11"
+
+"Collated Components:"
+
+"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet","DNP"
+"1","2","C1, C2","27p","Device:C_Small","","~",""
+"2","2","J1, J2","Conn_01x06","Connector_Generic:Conn_01x06","","~",""
+"3","1","J3","Conn_01x02","Connector_Generic:Conn_01x02","","~",""
+"4","1","R1","20k","Device:R","","~",""
+"5","1","R2","10k","Device:R","","~",""
+"6","1","R3","120","Device:R","","~",""
+"7","1","U1","MCP2551-I-P","Interface_CAN_LIN:MCP2551-I-P","Package_DIP:DIP-8_W7.62mm","http://ww1.microchip.com/downloads/en/devicedoc/21667d.pdf",""
+"8","1","U2","MCP2515-xSO","Interface_CAN_LIN:MCP2515-xSO","Package_SO:SOIC-18W_7.5x11.6mm_P1.27mm","http://ww1.microchip.com/downloads/en/DeviceDoc/21801e.pdf",""
+"9","1","Y1","16M","Device:Crystal","","~",""
